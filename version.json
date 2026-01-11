@@ -1,45 +1,45 @@
 {
-  "Version": "20260111065612",
+  "Version": "20260111191958",
   "Files": [
     {
       "path": "BotData.zip",
       "hash": "a7ab718d5606d94e8cd6c6ea3ff7ce94",
-      "url": "https://github.com/Update-002/update/releases/download/v20260111065612/BotData.zip"
+      "url": "https://github.com/Update-002/update/releases/download/v1.0/BotData.zip"
     },
     {
       "path": "data.zip",
       "hash": "023aba6930b95a91b608669baf2d6b0d",
-      "url": "https://github.com/Update-002/update/releases/download/v20260111065612/data.zip"
+      "url": "https://github.com/Update-002/update/releases/download/v1.0/data.zip"
     },
     {
       "path": "DWLogin.zip",
       "hash": "eafc5a68908a24e6d2a5a18a4d8acdc7",
-      "url": "https://github.com/Update-002/update/releases/download/v20260111065612/DWLogin.zip"
+      "url": "https://github.com/Update-002/update/releases/download/v1.0/DWLogin.zip"
     },
     {
       "path": "jma.zip",
       "hash": "90106bf4fbba86ea498bf21885ace14a",
-      "url": "https://github.com/Update-002/update/releases/download/v20260111065612/jma.zip"
+      "url": "https://github.com/Update-002/update/releases/download/v1.0/jma.zip"
     },
     {
       "path": "menu.zip",
       "hash": "9643d231832f9f9f4071c9723d337369",
-      "url": "https://github.com/Update-002/update/releases/download/v20260111065612/menu.zip"
+      "url": "https://github.com/Update-002/update/releases/download/v1.0/menu.zip"
     },
     {
       "path": "pic.zip",
       "hash": "4f0b8d330571db28dd894f1557179633",
-      "url": "https://github.com/Update-002/update/releases/download/v20260111065612/pic.zip"
+      "url": "https://github.com/Update-002/update/releases/download/v1.0/pic.zip"
     },
     {
       "path": "SERVER.zip",
       "hash": "bf9a9c486f3f23f51f73dd990b7765f5",
-      "url": "https://github.com/Update-002/update/releases/download/v20260111065612/SERVER.zip"
+      "url": "https://github.com/Update-002/update/releases/download/v1.0/SERVER.zip"
     },
     {
       "path": "TSBot.zip",
       "hash": "2f74d822bcd1ec717bb1b25aed1c45f6",
-      "url": "https://github.com/Update-002/update/releases/download/v20260111065612/TSBot.zip"
+      "url": "https://github.com/Update-002/update/releases/download/v1.0/TSBot.zip"
     }
   ]
 }
