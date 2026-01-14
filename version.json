@@ -1,5 +1,5 @@
 {
-  "Version": "20260113014651",
+  "Version": "20260114231556",
   "Files": [
     {
       "path": "BotData.zip",
@@ -33,7 +33,7 @@
     },
     {
       "path": "SERVER.zip",
-      "hash": "bf9a9c486f3f23f51f73dd990b7765f5",
+      "hash": "1017a088f627c8bcb64a8db6fd4d1857",
       "url": "https://github.com/Update-002/update/releases/download/v1.0/SERVER.zip"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "path": "Update.zip",
-      "hash": "da29eebf753facd5af5439c4d44036e9",
+      "hash": "d5ffb04380f770e0fe101660ee703072",
       "url": "https://github.com/Update-002/update/releases/download/v1.0/Update.zip"
     }
   ]
