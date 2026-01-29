@@ -1,5 +1,5 @@
 {
-  "Version": "20260119012412",
+  "Version": "20260130021935",
   "Files": [
     {
       "path": "BotData.zip",
@@ -8,7 +8,7 @@
     },
     {
       "path": "data.zip",
-      "hash": "b6c93ae3a6d29e8f20ec238e2f60965d",
+      "hash": "ae0c6e51fee510fea8ec9bfc4951d308",
       "url": "https://github.com/Update-002/update/releases/download/v1.0/data.zip"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "path": "pic.zip",
-      "hash": "d5344c4f56d83d1c6833d2962a71768a",
+      "hash": "18d8f665950e5e4a3a1b113be0cca002",
       "url": "https://github.com/Update-002/update/releases/download/v1.0/pic.zip"
     },
     {
