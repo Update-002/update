@@ -1,5 +1,5 @@
 {
-  "Version": "20260218012640",
+  "Version": "20260226121408",
   "Files": [
     {
       "path": "BotData.zip",
@@ -8,7 +8,7 @@
     },
     {
       "path": "data.zip",
-      "hash": "0dae7324b44b4ddd985ac4d92507f434",
+      "hash": "8f98d51aa9cb05e655f56e1866ad4aa1",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "path": "jma.zip",
-      "hash": "eed4596172fcbb80ab9f5e09ffa4a7be",
+      "hash": "594073beb76d131e9b1d147158c8f385",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/jma.zip"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "path": "pic.zip",
-      "hash": "21b6907623d6af239228ba18e5ca6ce9",
+      "hash": "7b137be3f70a4cdccec1df20784b3e25",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/pic.zip"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "path": "Update.zip",
-      "hash": "6287fbb25a3e035b5e456c30f8488f0f",
+      "hash": "4060c1dfc26d02b79a82b65afaa08804",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/Update.zip"
     }
   ]
