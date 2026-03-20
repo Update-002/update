@@ -1,5 +1,5 @@
 {
-  "Version": "20260320005229",
+  "Version": "20260320112626",
   "Files": [
     {
       "path": "BotData.zip",
@@ -38,7 +38,7 @@
     },
     {
       "path": "TSBot.zip",
-      "hash": "8c7c3f4285736d716349e27ce37a5ee8",
+      "hash": "c823c757e452aeee849ebbc98c6614f9",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/TSBot.zip"
     },
     {
