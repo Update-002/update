@@ -1,5 +1,5 @@
 {
-  "Version": "20260419110216",
+  "Version": "20260419194923",
   "Files": [
     {
       "path": "BotData.zip",
@@ -10,6 +10,11 @@
       "path": "data.zip",
       "hash": "2f45b7b51c235dc9aaef46d45db1323d",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip"
+    },
+    {
+      "path": "DWBot.zip",
+      "hash": "83ac5c284c99b112e8550843eb6b2408",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
       "path": "DWLogin.zip",
@@ -43,7 +48,7 @@
     },
     {
       "path": "Update.zip",
-      "hash": "697d30846bfc595f4d0dac21c7c0dc3d",
+      "hash": "c5d0ebd67e4e21212e1bb8bf6d5049c1",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/Update.zip"
     }
   ]
