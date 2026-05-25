@@ -1,5 +1,5 @@
 {
-  "Version": "20260526013948",
+  "Version": "20260526023555",
   "Files": [
     {
       "path": "BotData.zip",
@@ -13,7 +13,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "f95255f0ffaa0e7c94cb7550ed9071c9",
+      "hash": "508699f82542aecef86417450aee0798",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
