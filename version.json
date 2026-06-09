@@ -1,5 +1,5 @@
 {
-  "Version": "20260608025351",
+  "Version": "20260610023937",
   "Files": [
     {
       "path": "BotData.zip",
@@ -8,12 +8,12 @@
     },
     {
       "path": "data.zip",
-      "hash": "d16c8f39d95734395cc8e1e1e65f373d",
+      "hash": "2781499f5a4b8bab379fe774f8d45b6b",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip"
     },
     {
       "path": "DWBot.zip",
-      "hash": "e22b8633273a2e8f3698d258edcdcc3d",
+      "hash": "80a906d90ad615d0b49b1f805a2fb801",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "path": "TSBot.zip",
-      "hash": "c823c757e452aeee849ebbc98c6614f9",
+      "hash": "8f44c6c85377e53b7e9125e1fcb07728",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/TSBot.zip"
     },
     {
