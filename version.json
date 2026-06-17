@@ -1,5 +1,5 @@
 {
-  "Version": "20260617094328",
+  "Version": "20260617202819",
   "Files": [
     {
       "path": "BotData.zip",
@@ -13,7 +13,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "6f2e8ad55068d2cb3ea860cb5835997a",
+      "hash": "85e61dda68e70ce74579baa658b74817",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
@@ -53,12 +53,12 @@
     }
   ],
   "DWBot": {
-    "version": "1.4.1",
-    "minVersion": "1.4.0",
+    "version": "1.4.2",
+    "minVersion": "1.4.1",
     "releaseDate": "2026/6/17",
-    "notes": "- 修复BUG",
+    "notes": "- 修复武将经验不展示，修复金币增加不展示，增加挂机BUG日志",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "fa586dc59487e0ecea324e205cd56417",
-    "exeSize": 23351824
+    "exeMd5": "f718516670903d30358ac273c5c7abf9",
+    "exeSize": 23141904
   }
 }
