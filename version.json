@@ -1,5 +1,5 @@
 {
-  "Version": "20260614172731",
+  "Version": "20260617094014",
   "Files": [
     {
       "path": "BotData.zip",
@@ -13,7 +13,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "8a96d53c73e802858387d48ceafc8fcd",
+      "hash": "777590906e1843cdf147625d7fa94f94",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "path": "TSBot.zip",
-      "hash": "8f44c6c85377e53b7e9125e1fcb07728",
+      "hash": "4a0d31a3b7b4d4d82457b61e889fa4fc",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/TSBot.zip"
     },
     {
@@ -51,5 +51,14 @@
       "hash": "b25282bb3946cbcd453385f0fc1367cf",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/Update.zip"
     }
-  ]
+  ],
+  "DWBot": {
+    "version": "1.4.1",
+    "minVersion": "1.4.0",
+    "releaseDate": "2026/6/17",
+    "notes": "- 修复BUG",
+    "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
+    "exeMd5": "fa586dc59487e0ecea324e205cd56417",
+    "exeSize": 23351824
+  }
 }
