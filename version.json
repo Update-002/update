@@ -1,5 +1,5 @@
 {
-  "Version": "20260617202819",
+  "Version": "20260619105505",
   "Files": [
     {
       "path": "BotData.zip",
@@ -8,12 +8,12 @@
     },
     {
       "path": "data.zip",
-      "hash": "2781499f5a4b8bab379fe774f8d45b6b",
+      "hash": "abc22f41a3fb18469780c393a73e2343",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip"
     },
     {
       "path": "DWBot.zip",
-      "hash": "85e61dda68e70ce74579baa658b74817",
+      "hash": "233e74682a244f3edd70298a78e17d96",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "path": "jma.zip",
-      "hash": "594073beb76d131e9b1d147158c8f385",
+      "hash": "34cb5c2ad9f98343b48bbb77e83c5d53",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/jma.zip"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "path": "pic.zip",
-      "hash": "2531acf3a89814679bd15c395157bf76",
+      "hash": "dbb0d28cf5c6beafb44600f300b9bba2",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/pic.zip"
     },
     {
@@ -53,12 +53,12 @@
     }
   ],
   "DWBot": {
-    "version": "1.4.2",
-    "minVersion": "1.4.1",
-    "releaseDate": "2026/6/17",
-    "notes": "- 修复武将经验不展示，修复金币增加不展示，增加挂机BUG日志",
+    "version": "1.4.3",
+    "minVersion": "1.4.2",
+    "releaseDate": "2026/6/19",
+    "notes": "- 修复背包功能无法使用问题",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "f718516670903d30358ac273c5c7abf9",
-    "exeSize": 23141904
+    "exeMd5": "ddea63ab53f0ca542d985a7bd70078a0",
+    "exeSize": 23457808
   }
 }
