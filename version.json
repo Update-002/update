@@ -1,5 +1,5 @@
 {
-  "Version": "20260619105505",
+  "Version": "20260621050032",
   "Files": [
     {
       "path": "BotData.zip",
@@ -8,7 +8,7 @@
     },
     {
       "path": "data.zip",
-      "hash": "abc22f41a3fb18469780c393a73e2343",
+      "hash": "2a7b99250477f5a65dc29d1c2db8c2d6",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "path": "DWLogin.zip",
-      "hash": "eafc5a68908a24e6d2a5a18a4d8acdc7",
+      "hash": "f77db824c8141f5122ea50fbac6d1459",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWLogin.zip"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "path": "menu.zip",
-      "hash": "9643d231832f9f9f4071c9723d337369",
+      "hash": "3b8bdaee1c378039a944f6cb6ac07712",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/menu.zip"
     },
     {
       "path": "pic.zip",
-      "hash": "dbb0d28cf5c6beafb44600f300b9bba2",
+      "hash": "3dfdfb36364ffbb8f103796b52a471d8",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/pic.zip"
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "path": "Update.zip",
-      "hash": "b25282bb3946cbcd453385f0fc1367cf",
+      "hash": "aee0861cfd545489256d9ac2e42c6157",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/Update.zip"
     }
   ],
@@ -58,7 +58,7 @@
     "releaseDate": "2026/6/19",
     "notes": "- 修复背包功能无法使用问题",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "ddea63ab53f0ca542d985a7bd70078a0",
-    "exeSize": 23457808
+    "exeMd5": "324a66fd8d6b567bfac1a7c9d1307d3d",
+    "exeSize": 20802048
   }
 }
