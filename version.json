@@ -1,5 +1,5 @@
 {
-  "Version": "20260622032204",
+  "Version": "20260622103452",
   "Files": [
     {
       "path": "BotData.zip",
@@ -13,7 +13,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "aebbc8edaeb995945baec1c03bb83030",
+      "hash": "7d12c12d2e9d3bd0ef9622b6407a4efb",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
@@ -53,12 +53,12 @@
     }
   ],
   "DWBot": {
-    "version": "1.4.4",
-    "minVersion": "1.4.3",
+    "version": "1.4.5",
+    "minVersion": "1.4.4",
     "releaseDate": "2026/6/22",
     "notes": "-",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "31cb5b7d5830f468acece5a4cb677c4d",
-    "exeSize": 23413264
+    "exeMd5": "14358af9d4405228c8982cd5ec018d79",
+    "exeSize": 23477264
   }
 }
