@@ -1,5 +1,5 @@
 {
-  "Version": "20260622103452",
+  "Version": "20260624150106",
   "Files": [
     {
       "path": "BotData.zip",
@@ -13,7 +13,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "7d12c12d2e9d3bd0ef9622b6407a4efb",
+      "hash": "465c4ab4e6f1bdc33bb8094530340088",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
@@ -53,12 +53,12 @@
     }
   ],
   "DWBot": {
-    "version": "1.4.5",
-    "minVersion": "1.4.4",
-    "releaseDate": "2026/6/22",
-    "notes": "-",
+    "version": "1.4.6",
+    "minVersion": "1.4.5",
+    "releaseDate": "2026/6/24",
+    "notes": "- 修复复活位置错误问题\n- 修复无法保存多条件配置",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "14358af9d4405228c8982cd5ec018d79",
-    "exeSize": 23477264
+    "exeMd5": "11fb8727de07b3338cebefe8d60dbb51",
+    "exeSize": 23325712
   }
 }
