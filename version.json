@@ -1,5 +1,5 @@
 {
-  "Version": "20260701021839",
+  "Version": "20260701022134",
   "Files": [
     {
       "path": "BotData.zip",
@@ -48,7 +48,7 @@
     },
     {
       "path": "Update.zip",
-      "hash": "f10377d9ef219b8cbed071970c065268",
+      "hash": "678dccfcb70093b84a6a3d1f44b89976",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/Update.zip"
     }
   ],
