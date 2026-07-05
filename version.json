@@ -1,5 +1,5 @@
 {
-  "Version": "20260705114943",
+  "Version": "20260705115750",
   "Files": [
     {
       "path": "BotData.zip",
@@ -13,7 +13,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "e94aa211ff8561e8dfd3f369b88da28a",
+      "hash": "85d9dba0910fe9ee5a25614ff41a650d",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "path": "TSBot.zip",
-      "hash": "97b415885bb03f48939388d870124662",
+      "hash": "4be2f4065ea78f04e47be7dfc6b7ca87",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/TSBot.zip"
     },
     {
@@ -53,12 +53,12 @@
     }
   ],
   "DWBot": {
-    "version": "1.5.1",
+    "version": "1.5.2",
     "minVersion": "1.0.1",
     "releaseDate": "2026/7/5",
-    "notes": "- 修复背包2异常问题",
+    "notes": "- 修复背包2问题",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "2d0d251b2ef496864e97c598a3f882de",
-    "exeSize": 20921344
+    "exeMd5": "cc259cc0cb6ed72a2503f469d724a3b9",
+    "exeSize": 23447568
   }
 }
