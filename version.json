@@ -1,5 +1,5 @@
 {
-  "Version": "20260706103009",
+  "Version": "20260707022801",
   "Files": [
     {
       "path": "BotData.zip",
@@ -7,13 +7,8 @@
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/BotData.zip"
     },
     {
-      "path": "data.zip",
-      "hash": "fb202c7d47399c8699dc216864e9018d",
-      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip"
-    },
-    {
       "path": "DWBot.zip",
-      "hash": "85d9dba0910fe9ee5a25614ff41a650d",
+      "hash": "a3988a28606f95e76b6d3a7804d1077d",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
@@ -53,12 +48,12 @@
     }
   ],
   "DWBot": {
-    "version": "1.5.2",
-    "minVersion": "1.0.1",
-    "releaseDate": "2026/7/5",
-    "notes": "- 修复背包2问题",
+    "version": "1.5.3",
+    "minVersion": "1.0.0",
+    "releaseDate": "2026/7/7",
+    "notes": "- 修复队伍异常",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "cc259cc0cb6ed72a2503f469d724a3b9",
-    "exeSize": 23447568
+    "exeMd5": "68470d35fb820954f179b42da55a988e",
+    "exeSize": 23159824
   }
 }
