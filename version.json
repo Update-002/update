@@ -1,5 +1,5 @@
 {
-  "Version": "20260705115909",
+  "Version": "20260706103009",
   "Files": [
     {
       "path": "BotData.zip",
@@ -8,7 +8,7 @@
     },
     {
       "path": "data.zip",
-      "hash": "d7229a782dbd52faefdce3e6973f55c2",
+      "hash": "fb202c7d47399c8699dc216864e9018d",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip"
     },
     {
