@@ -1,5 +1,5 @@
 {
-  "Version": "20260708021420",
+  "Version": "20260710103808",
   "Files": [
     {
       "path": "BotData.zip",
@@ -13,12 +13,12 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "a3988a28606f95e76b6d3a7804d1077d",
+      "hash": "10f1e09f9339c153774755678aeb7de3",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
       "path": "DWLogin.zip",
-      "hash": "f77db824c8141f5122ea50fbac6d1459",
+      "hash": "e96230a30f04cf930c2c4e9ab31bd5e2",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWLogin.zip"
     },
     {
@@ -43,22 +43,22 @@
     },
     {
       "path": "TSBot.zip",
-      "hash": "a79a2cec533ac0ed15ba9c4813caf6a6",
+      "hash": "9565bfff6b2ad551fd065ae070e45946",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/TSBot.zip"
     },
     {
       "path": "Update.zip",
-      "hash": "678dccfcb70093b84a6a3d1f44b89976",
+      "hash": "6cda284987c8c8486badfc417ce8fd9d",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/Update.zip"
     }
   ],
   "DWBot": {
-    "version": "1.5.3",
-    "minVersion": "1.0.0",
-    "releaseDate": "2026/7/7",
-    "notes": "- 修复队伍异常",
+    "version": "1.5.4",
+    "minVersion": "1.0.1",
+    "releaseDate": "2026/7/10",
+    "notes": "- 修复组队问题",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "68470d35fb820954f179b42da55a988e",
-    "exeSize": 23159824
+    "exeMd5": "79ce9ee482dcd7273117b5e4d6f5ee1c",
+    "exeSize": 23586832
   }
 }
