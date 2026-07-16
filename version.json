@@ -1,5 +1,5 @@
 {
-  "Version": "20260713033553",
+  "Version": "20260717025134",
   "Files": [
     {
       "path": "BotData.zip",
@@ -13,7 +13,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "341a9b995e1162b403870914abcc4b70",
+      "hash": "883d1313eb0bb866bfc3c7292e3d4b66",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
@@ -53,12 +53,12 @@
     }
   ],
   "DWBot": {
-    "version": "1.5.5",
-    "minVersion": "1.5.4",
-    "releaseDate": "2026/7/13",
-    "notes": "- 修复一些基础问题",
+    "version": "1.6.1",
+    "minVersion": "1.6.1",
+    "releaseDate": "2026/7/17",
+    "notes": "- 优化组不上队问题\n- 增加护眼黑色\n- 聊天简繁体修复",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "a01b0fc028597f2b9210fa3703e725c9",
-    "exeSize": 23390224
+    "exeMd5": "94b9f8a2fcc6959ab5cb20050d7faf00",
+    "exeSize": 23614480
   }
 }
