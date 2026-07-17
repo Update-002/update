@@ -1,5 +1,5 @@
 {
-  "Version": "20260717025134",
+  "Version": "20260718033859",
   "Files": [
     {
       "path": "BotData.zip",
@@ -13,7 +13,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "883d1313eb0bb866bfc3c7292e3d4b66",
+      "hash": "7d74c5d766a610d69b3051c07f954a75",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
@@ -53,12 +53,12 @@
     }
   ],
   "DWBot": {
-    "version": "1.6.1",
-    "minVersion": "1.6.1",
-    "releaseDate": "2026/7/17",
-    "notes": "- 优化组不上队问题\n- 增加护眼黑色\n- 聊天简繁体修复",
+    "version": "1.6.2",
+    "minVersion": "1.6.2",
+    "releaseDate": "2026/7/18",
+    "notes": "- 修复组队问题\n- 修复召唤纹章自动更换问题\n- 增加自动打工按钮避免正常副本战斗无限打包纹章",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "94b9f8a2fcc6959ab5cb20050d7faf00",
-    "exeSize": 23614480
+    "exeMd5": "1df39b4783d84856c87c8a10e9f07e79",
+    "exeSize": 24126480
   }
 }
