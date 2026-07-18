@@ -1,5 +1,5 @@
 {
-  "Version": "20260718033859",
+  "Version": "20260719063926",
   "Files": [
     {
       "path": "BotData.zip",
@@ -13,7 +13,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "7d74c5d766a610d69b3051c07f954a75",
+      "hash": "43675829dc409e6e91a1b0e2684c07e3",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
@@ -53,12 +53,12 @@
     }
   ],
   "DWBot": {
-    "version": "1.6.2",
-    "minVersion": "1.6.2",
-    "releaseDate": "2026/7/18",
-    "notes": "- 修复组队问题\n- 修复召唤纹章自动更换问题\n- 增加自动打工按钮避免正常副本战斗无限打包纹章",
+    "version": "1.6.3",
+    "minVersion": "1.6.3",
+    "releaseDate": "2026/7/19",
+    "notes": "- 修复自动打包纹章问题\n- 增加物品选中时点击范围可选",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "1df39b4783d84856c87c8a10e9f07e79",
-    "exeSize": 24126480
+    "exeMd5": "8784815b8d2ff4b5cece36c4f4ddf394",
+    "exeSize": 24070160
   }
 }
