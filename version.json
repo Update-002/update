@@ -1,5 +1,5 @@
 {
-  "Version": "20260719142416",
+  "Version": "20260719193618",
   "Files": [
     {
       "path": "BotData.zip",
@@ -18,7 +18,7 @@
     },
     {
       "path": "DWLogin.zip",
-      "hash": "3fb60e7ab16b0645e48f163971f0911c",
+      "hash": "83dc82b5a0555d4f3c202fb02f9c7a04",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWLogin.zip"
     },
     {
