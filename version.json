@@ -1,5 +1,5 @@
 {
-  "Version": "20260724020724",
+  "Version": "20260724061129",
   "Files": [
     {
       "path": "BotData.zip",
@@ -13,7 +13,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "43675829dc409e6e91a1b0e2684c07e3",
+      "hash": "93d83595a31446a8776d6885eac3d7f9",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
@@ -53,12 +53,12 @@
     }
   ],
   "DWBot": {
-    "version": "1.6.3",
-    "minVersion": "1.6.3",
-    "releaseDate": "2026/7/19",
-    "notes": "- 修复自动打包纹章问题\n- 增加物品选中时点击范围可选",
+    "version": "1.7.0",
+    "minVersion": "1.7.0",
+    "releaseDate": "2026/7/24",
+    "notes": "- 更新许多内容",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "8784815b8d2ff4b5cece36c4f4ddf394",
-    "exeSize": 24070160
+    "exeMd5": "0f8f92797f6667382083a762bed93c98",
+    "exeSize": 23686672
   }
 }
