@@ -1,5 +1,5 @@
 {
-  "Version": "20260724061129",
+  "Version": "20260725221148",
   "Files": [
     {
       "path": "BotData.zip",
@@ -13,7 +13,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "93d83595a31446a8776d6885eac3d7f9",
+      "hash": "da991a4bdc657a54575a0ad118b61032",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
@@ -53,12 +53,12 @@
     }
   ],
   "DWBot": {
-    "version": "1.7.0",
-    "minVersion": "1.7.0",
-    "releaseDate": "2026/7/24",
-    "notes": "- 更新许多内容",
+    "version": "1.7.1",
+    "minVersion": "1.7.1",
+    "releaseDate": "2026/7/25",
+    "notes": "- 修复组队问题",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "0f8f92797f6667382083a762bed93c98",
-    "exeSize": 23686672
+    "exeMd5": "1a4643c24163fa3b6f004edd08e6fb78",
+    "exeSize": 23745552
   }
 }
