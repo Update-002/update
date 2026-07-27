@@ -1,5 +1,5 @@
 {
-  "Version": "20260726005442",
+  "Version": "20260728060431",
   "Files": [
     {
       "path": "BotData.zip",
@@ -13,7 +13,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "cfbc5c47a203debcc2754ab29310d3bd",
+      "hash": "6137f8928fc057a0d1bc2c60594fcee2",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
     },
     {
@@ -48,17 +48,25 @@
     },
     {
       "path": "Update.zip",
-      "hash": "0bbc7a04d9fd7a712f97bd0380aee8ea",
+      "hash": "95221ec167efab4d53341dcacda31e17",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/Update.zip"
     }
   ],
   "DWBot": {
-    "version": "1.7.2",
-    "minVersion": "1.7.2",
-    "releaseDate": "2026/7/26",
-    "notes": "- 修复组队异常问题",
+    "version": "1.7.3",
+    "minVersion": "1.7.3",
+    "releaseDate": "2026/7/28",
+    "notes": "- 增加更新日志\n- 优化组队问题\n- 优化多开器存武将等操作卡死问题",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "290f35beeb40a9fb17b053770680d819",
-    "exeSize": 24099344
+    "exeMd5": "24c7bd6568e7b84bb9bc1f5d6a5bf7c7",
+    "exeSize": 24346640,
+    "desktopVersion": "1.7.3",
+    "changelog": [
+      {
+        "version": "1.7.3",
+        "date": "2026/7/28",
+        "notes": "- 增加更新日志\n- 优化组队问题\n- 优化多开器存武将等操作卡死问题"
+      }
+    ]
   }
 }
