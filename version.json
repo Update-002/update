@@ -1,5 +1,5 @@
 {
-  "Version": "20260729192058",
+  "Version": "20260729232906",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "6137f8928fc057a0d1bc2c60594fcee2",
+      "hash": "528d8f2ca8be3c3ead24d1770ef50466",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -63,15 +63,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.7.3",
-    "minVersion": "1.7.3",
-    "releaseDate": "2026/7/28",
-    "notes": "- 增加更新日志\n- 优化组队问题\n- 优化多开器存武将等操作卡死问题",
+    "version": "1.7.4",
+    "minVersion": "1.7.4",
+    "releaseDate": "2026/7/29",
+    "notes": "- 修复BOT攻击中级目标错误问题\n- 增加多开器自动登陆，快捷组队功能\n- 明日更新DW百科功能",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "24c7bd6568e7b84bb9bc1f5d6a5bf7c7",
-    "exeSize": 24346640,
-    "desktopVersion": "1.7.3",
+    "exeMd5": "49a7269c4eff16aa3db4d229ce27ed24",
+    "exeSize": 23985168,
+    "desktopVersion": "1.7.4",
     "changelog": [
+      {
+        "version": "1.7.4",
+        "date": "2026/7/29",
+        "notes": "- 修复BOT攻击中级目标错误问题\n- 增加多开器自动登陆，快捷组队功能\n- 明日更新DW百科功能"
+      },
       {
         "version": "1.7.3",
         "date": "2026/7/28",
