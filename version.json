@@ -1,55 +1,65 @@
 {
-  "Version": "20260729023746",
+  "Version": "20260729192058",
   "Files": [
     {
       "path": "BotData.zip",
       "hash": "a7ab718d5606d94e8cd6c6ea3ff7ce94",
-      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/BotData.zip"
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/BotData.zip",
+      "flat": false
     },
     {
       "path": "data.zip",
       "hash": "b834148ada8ef2701d76c20c2f996fc4",
-      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip"
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip",
+      "flat": false
     },
     {
       "path": "DWBot.zip",
       "hash": "6137f8928fc057a0d1bc2c60594fcee2",
-      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip"
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
+      "flat": true
     },
     {
       "path": "DWLogin.zip",
-      "hash": "b89c11a07c20d647c8a1fa9b918b9cab",
-      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWLogin.zip"
+      "hash": "afaa4c739687668d3cb2336ec378991b",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWLogin.zip",
+      "flat": true
     },
     {
       "path": "jma.zip",
       "hash": "959eab11be88cdb7b6c41a7d746e11d7",
-      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/jma.zip"
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/jma.zip",
+      "flat": false
     },
     {
       "path": "menu.zip",
       "hash": "3b8bdaee1c378039a944f6cb6ac07712",
-      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/menu.zip"
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/menu.zip",
+      "flat": false
     },
     {
       "path": "pic.zip",
       "hash": "c3498010ff0b2e4ead004a04c81c8bb1",
-      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/pic.zip"
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/pic.zip",
+      "flat": false
     },
     {
       "path": "SERVER.zip",
       "hash": "1017a088f627c8bcb64a8db6fd4d1857",
-      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SERVER.zip"
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SERVER.zip",
+      "flat": true
     },
     {
       "path": "TSBot.zip",
       "hash": "9565bfff6b2ad551fd065ae070e45946",
-      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/TSBot.zip"
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/TSBot.zip",
+      "flat": true
     },
     {
       "path": "Update.zip",
-      "hash": "c2ca719aa961c05a2791dfb9b8a409f7",
-      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/Update.zip"
+      "hash": "a6922fd175922ff76736a667718cdfdc",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/Update.zip",
+      "flat": true
     }
   ],
   "DWBot": {
