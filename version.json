@@ -1,5 +1,5 @@
 {
-  "Version": "20260730212504",
+  "Version": "20260730213525",
   "Files": [
     {
       "path": "BotData.zip",
@@ -21,7 +21,7 @@
     },
     {
       "path": "DWLogin.zip",
-      "hash": "d412c69be4eddac1df88f0ae60c74b2d",
+      "hash": "2799faa3ca04fc112763b37acd4ece36",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWLogin.zip",
       "flat": true
     },
@@ -51,7 +51,7 @@
     },
     {
       "path": "SERVER.zip",
-      "hash": "b3978b2f673b62981b4222abeb719e0c",
+      "hash": "8db0c5d8d843cb8623f46977eac6eb16",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SERVER.zip",
       "flat": true
     },
