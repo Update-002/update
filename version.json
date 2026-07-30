@@ -1,5 +1,5 @@
 {
-  "Version": "20260730001520",
+  "Version": "20260730212154",
   "Files": [
     {
       "path": "BotData.zip",
@@ -9,7 +9,7 @@
     },
     {
       "path": "data.zip",
-      "hash": "b834148ada8ef2701d76c20c2f996fc4",
+      "hash": "6731a3872ea4b78d9e4cb69abf1fd8a3",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip",
       "flat": false
     },
@@ -26,6 +26,12 @@
       "flat": true
     },
     {
+      "path": "DW百科.zip",
+      "hash": "0277aa9c508b03442a422b77cd250b68",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW百科.zip",
+      "flat": true
+    },
+    {
       "path": "jma.zip",
       "hash": "959eab11be88cdb7b6c41a7d746e11d7",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/jma.zip",
@@ -33,7 +39,7 @@
     },
     {
       "path": "menu.zip",
-      "hash": "3b8bdaee1c378039a944f6cb6ac07712",
+      "hash": "e3e56ec3523f06570d2c16ff2b87d766",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/menu.zip",
       "flat": false
     },
