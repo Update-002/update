@@ -1,5 +1,5 @@
 {
-  "Version": "20260808210006",
+  "Version": "20260809004228",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "528d8f2ca8be3c3ead24d1770ef50466",
+      "hash": "f2fdac7d608594e7c611accee10e76fb",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -57,7 +57,7 @@
     },
     {
       "path": "TSBot.zip",
-      "hash": "1670473e2aa1fa0bec92d416e49e1149",
+      "hash": "27e93dd1b252106137da192a10889e19",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/TSBot.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.7.4",
+    "version": "1.7.5",
     "minVersion": "1.7.4",
-    "releaseDate": "2026/7/29",
-    "notes": "- 百科：优化任务搜索，任务页可按名称搜索（如「元宵 / 燈謎」）\n- 百科：活动大全、任务链路等资料更新，安装包体积优化至约 36MB\n- 百科：修复部分玩家「打开失败」误报",
+    "releaseDate": "2026/8/9",
+    "notes": "- 优化百科\n- 优化旧版本TSBOT\n- 优化DWBOT",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "49a7269c4eff16aa3db4d229ce27ed24",
-    "exeSize": 23985168,
-    "desktopVersion": "1.7.4",
+    "exeMd5": "9de6929681589300f20be673ce19f0d7",
+    "exeSize": 24090640,
+    "desktopVersion": "1.7.5",
     "changelog": [
+      {
+        "version": "1.7.5",
+        "date": "2026/8/9",
+        "notes": "- 优化百科\n- 优化旧版本TSBOT\n- 优化DWBOT"
+      },
       {
         "version": "1.7.4",
         "date": "2026/7/29",
