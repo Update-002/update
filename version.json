@@ -1,5 +1,5 @@
 {
-  "Version": "20260806104923",
+  "Version": "20260808163543",
   "Files": [
     {
       "path": "BotData.zip",
@@ -9,7 +9,7 @@
     },
     {
       "path": "data.zip",
-      "hash": "bdf35581a2a8e1975eeafd0b152ee691",
+      "hash": "1ea5308e45b23130e4bd546e52ad2555",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip",
       "flat": false
     },
@@ -27,13 +27,13 @@
     },
     {
       "path": "DW百科.zip",
-      "hash": "be97d1350361c7a570ab239d480b78c8",
+      "hash": "85d4edb2b8a5d33c5594783f61c8b10a",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW百科.zip",
       "flat": true
     },
     {
       "path": "jma.zip",
-      "hash": "959eab11be88cdb7b6c41a7d746e11d7",
+      "hash": "11f3ebb91f5519713dcc29a73fe191a5",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/jma.zip",
       "flat": false
     },
@@ -57,7 +57,7 @@
     },
     {
       "path": "TSBot.zip",
-      "hash": "9565bfff6b2ad551fd065ae070e45946",
+      "hash": "1670473e2aa1fa0bec92d416e49e1149",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/TSBot.zip",
       "flat": true
     },
