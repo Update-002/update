@@ -1,5 +1,5 @@
 {
-  "Version": "20260815055944",
+  "Version": "20260815122745",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "2991dc1bcb27e88bceff5852562cb0dc",
+      "hash": "f0f7aa71452154e243b8cd8496b765b2",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.8.1",
-    "minVersion": "1.8.0",
+    "version": "1.8.2",
+    "minVersion": "1.8.1",
     "releaseDate": "2026/8/15",
-    "notes": "- 【修复】挂机一两天后整个界面变白、只能关掉重开",
+    "notes": "- 1.修复日志不清理无限存储，并增加清理按钮\n- 2.修复极端情况下队员会无限运行脚本",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "091f7a96ea1f37d3fab30769ffdaa3ea",
-    "exeSize": 24281616,
-    "desktopVersion": "1.8.1",
+    "exeMd5": "71deddf9b68d40044b0ae0d7ba35bcc6",
+    "exeSize": 24315920,
+    "desktopVersion": "1.8.2",
     "changelog": [
+      {
+        "version": "1.8.2",
+        "date": "2026/8/15",
+        "notes": "- 1.修复日志不清理无限存储，并增加清理按钮\n- 2.修复极端情况下队员会无限运行脚本"
+      },
       {
         "version": "1.8.1",
         "date": "2026/8/15",
