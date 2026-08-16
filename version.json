@@ -1,5 +1,5 @@
 {
-  "Version": "20260815122745",
+  "Version": "20260816160353",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "f0f7aa71452154e243b8cd8496b765b2",
+      "hash": "21796c033459eb544b0eb3cb77d088c0",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.8.2",
-    "minVersion": "1.8.1",
-    "releaseDate": "2026/8/15",
-    "notes": "- 1.修复日志不清理无限存储，并增加清理按钮\n- 2.修复极端情况下队员会无限运行脚本",
+    "version": "1.8.3",
+    "minVersion": "1.8.2",
+    "releaseDate": "2026/8/16",
+    "notes": "- 1.增加快捷键功能F1-F5 空格 等可以自定义能快速操作一些内容可以自行尝试\n- 2.优化界面操作和功能体验\n- 3.修复一些合成，机关盒问题\n- 4.优化卡顿和白屏，还有问题可以直接联系",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "71deddf9b68d40044b0ae0d7ba35bcc6",
-    "exeSize": 24315920,
-    "desktopVersion": "1.8.2",
+    "exeMd5": "2fabbbaf4ac6462e7ec58206a1afcc43",
+    "exeSize": 24453136,
+    "desktopVersion": "1.8.3",
     "changelog": [
+      {
+        "version": "1.8.3",
+        "date": "2026/8/16",
+        "notes": "- 1.增加快捷键功能F1-F5 空格 等可以自定义能快速操作一些内容可以自行尝试\n- 2.优化界面操作和功能体验\n- 3.修复一些合成，机关盒问题\n- 4.优化卡顿和白屏，还有问题可以直接联系"
+      },
       {
         "version": "1.8.2",
         "date": "2026/8/15",
