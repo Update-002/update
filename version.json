@@ -1,5 +1,5 @@
 {
-  "Version": "20260816160353",
+  "Version": "20260817235946",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "21796c033459eb544b0eb3cb77d088c0",
+      "hash": "c8867272da308360d59c4f1b079b8564",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -57,7 +57,7 @@
     },
     {
       "path": "TSBot.zip",
-      "hash": "416b58fdf56a1132529a7ce47e44fb9c",
+      "hash": "03e7de19968af8140696154bdce99b1d",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/TSBot.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.8.3",
-    "minVersion": "1.8.2",
-    "releaseDate": "2026/8/16",
-    "notes": "- 1.增加快捷键功能F1-F5 空格 等可以自定义能快速操作一些内容可以自行尝试\n- 2.优化界面操作和功能体验\n- 3.修复一些合成，机关盒问题\n- 4.优化卡顿和白屏，还有问题可以直接联系",
+    "version": "1.8.4",
+    "minVersion": "1.8.3",
+    "releaseDate": "2026/8/17",
+    "notes": "- 1.优化性能\n- 2.优化战斗判断逻辑",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "2fabbbaf4ac6462e7ec58206a1afcc43",
-    "exeSize": 24453136,
-    "desktopVersion": "1.8.3",
+    "exeMd5": "69485970cd490c9a2d4237e7ece6526c",
+    "exeSize": 24661008,
+    "desktopVersion": "1.8.4",
     "changelog": [
+      {
+        "version": "1.8.4",
+        "date": "2026/8/17",
+        "notes": "- 1.优化性能\n- 2.优化战斗判断逻辑"
+      },
       {
         "version": "1.8.3",
         "date": "2026/8/16",
