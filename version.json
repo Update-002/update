@@ -1,5 +1,5 @@
 {
-  "Version": "20260817235946",
+  "Version": "20260818144956",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "c8867272da308360d59c4f1b079b8564",
+      "hash": "91dc4cc4c7820cf7ef29fe3b1720d2d0",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.8.4",
-    "minVersion": "1.8.3",
-    "releaseDate": "2026/8/17",
-    "notes": "- 1.优化性能\n- 2.优化战斗判断逻辑",
+    "version": "1.8.5",
+    "minVersion": "1.8.4",
+    "releaseDate": "2026/8/18",
+    "notes": "- 1.优化切换时地图数据被清\n- 2.调整一些新加入的错误设计",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "69485970cd490c9a2d4237e7ece6526c",
-    "exeSize": 24661008,
-    "desktopVersion": "1.8.4",
+    "exeMd5": "fb279f4830b6b326fc7d334e7344d38f",
+    "exeSize": 24296464,
+    "desktopVersion": "1.8.5",
     "changelog": [
+      {
+        "version": "1.8.5",
+        "date": "2026/8/18",
+        "notes": "- 1.优化切换时地图数据被清\n- 2.调整一些新加入的错误设计"
+      },
       {
         "version": "1.8.4",
         "date": "2026/8/17",
