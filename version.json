@@ -1,5 +1,5 @@
 {
-  "Version": "20260818144956",
+  "Version": "20260818225210",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "91dc4cc4c7820cf7ef29fe3b1720d2d0",
+      "hash": "afb313381cb9f337532b7aeac701e759",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.8.5",
-    "minVersion": "1.8.4",
+    "version": "1.8.6",
+    "minVersion": "1.8.5",
     "releaseDate": "2026/8/18",
-    "notes": "- 1.优化切换时地图数据被清\n- 2.调整一些新加入的错误设计",
+    "notes": "- 1.修复白屏问题（可能没完整修复，如遇到请发消息提供时间和账号ID）",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "fb279f4830b6b326fc7d334e7344d38f",
-    "exeSize": 24296464,
-    "desktopVersion": "1.8.5",
+    "exeMd5": "37f8357ab06b5dd6d54388c3629bd192",
+    "exeSize": 24470544,
+    "desktopVersion": "1.8.6",
     "changelog": [
+      {
+        "version": "1.8.6",
+        "date": "2026/8/18",
+        "notes": "- 1.修复白屏问题（可能没完整修复，如遇到请发消息提供时间和账号ID）"
+      },
       {
         "version": "1.8.5",
         "date": "2026/8/18",
