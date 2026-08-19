@@ -1,5 +1,5 @@
 {
-  "Version": "20260819165712",
+  "Version": "20260820004942",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "b2ecec32e658979280d7924fa280b9da",
+      "hash": "fddf6567d02da48edcde852ea60c1556",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.8.7",
-    "minVersion": "1.8.6",
-    "releaseDate": "2026/8/19",
-    "notes": "- 白屏问题排查，有这个困扰的更新这个版本，遇到白屏了及时联系！",
+    "version": "1.8.8",
+    "minVersion": "1.8.7",
+    "releaseDate": "2026/8/20",
+    "notes": "- 1.白屏问题二次修复（还存在请马上联系，有异常数据需要给我）\n- 2.修复物品自动打开问题\n- 3.修复快递不能选在线用户问题",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "0bf07ad15199f8044652e7af0cdef153",
-    "exeSize": 24702480,
-    "desktopVersion": "1.8.7",
+    "exeMd5": "739025dcce4382278d96e822367be9b6",
+    "exeSize": 24453136,
+    "desktopVersion": "1.8.8",
     "changelog": [
+      {
+        "version": "1.8.8",
+        "date": "2026/8/20",
+        "notes": "- 1.白屏问题二次修复（还存在请马上联系，有异常数据需要给我）\n- 2.修复物品自动打开问题\n- 3.修复快递不能选在线用户问题"
+      },
       {
         "version": "1.8.7",
         "date": "2026/8/19",
