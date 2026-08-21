@@ -1,5 +1,5 @@
 {
-  "Version": "20260820005111",
+  "Version": "20260821213001",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "fddf6567d02da48edcde852ea60c1556",
+      "hash": "13071ca3fb3a55cf3a63f13daf6f476d",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.8.8",
-    "minVersion": "1.8.7",
-    "releaseDate": "2026/8/20",
-    "notes": "- 1.白屏问题二次修复（还存在请马上联系，有异常数据需要给我）\n- 2.修复物品自动打开问题\n- 3.修复快递不能选在线用户问题",
+    "version": "1.8.9",
+    "minVersion": "1.8.8",
+    "releaseDate": "2026/8/21",
+    "notes": "- 修复白屏，修复打开东西卡顿（有问题的及时更新，还遇到联系我提供日志，感谢大家）",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "739025dcce4382278d96e822367be9b6",
-    "exeSize": 24453136,
-    "desktopVersion": "1.8.8",
+    "exeMd5": "02a1801325c7290fa0a0a9bbab5b432a",
+    "exeSize": 24706576,
+    "desktopVersion": "1.8.9",
     "changelog": [
+      {
+        "version": "1.8.9",
+        "date": "2026/8/21",
+        "notes": "- 修复白屏，修复打开东西卡顿（有问题的及时更新，还遇到联系我提供日志，感谢大家）"
+      },
       {
         "version": "1.8.8",
         "date": "2026/8/20",
