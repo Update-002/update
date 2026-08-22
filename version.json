@@ -1,5 +1,5 @@
 {
-  "Version": "20260821213001",
+  "Version": "20260823032426",
   "Files": [
     {
       "path": "BotData.zip",
@@ -21,7 +21,7 @@
     },
     {
       "path": "DWLogin.zip",
-      "hash": "5f0cd6faf581f8dc205948574f617c67",
+      "hash": "778efaaf3b624162735f9e397209adc3",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWLogin.zip",
       "flat": true
     },
@@ -74,8 +74,8 @@
     "releaseDate": "2026/8/21",
     "notes": "- 修复白屏，修复打开东西卡顿（有问题的及时更新，还遇到联系我提供日志，感谢大家）",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "02a1801325c7290fa0a0a9bbab5b432a",
-    "exeSize": 24706576,
+    "exeMd5": "fd4c67932bf209410c0eb478a6867abf",
+    "exeSize": 4008448,
     "desktopVersion": "1.8.9",
     "changelog": [
       {
