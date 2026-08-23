@@ -1,5 +1,5 @@
 {
-  "Version": "20260823174414",
+  "Version": "20260824054720",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "54cb065c773d00f5a8dfce77a9d0e799",
+      "hash": "8b18fad521eae9bb546a017138517de2",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.0",
-    "minVersion": "1.8.9",
-    "releaseDate": "2026/8/23",
-    "notes": "- 1.修复白屏问题\n- 2.修复卡顿问题\n- 3......等等（有问题的建议及时更新）",
+    "version": "1.9.1",
+    "minVersion": "1.9.0",
+    "releaseDate": "2026/8/24",
+    "notes": "- 1.修复看不到在线用户数据问题",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "1033b8e6a8b06e197cfc5a28f2be11f0",
-    "exeSize": 25446928,
-    "desktopVersion": "1.9.0",
+    "exeMd5": "45835dfa75d11607535feb1ab2e7d3e7",
+    "exeSize": 25774096,
+    "desktopVersion": "1.9.1",
     "changelog": [
+      {
+        "version": "1.9.1",
+        "date": "2026/8/24",
+        "notes": "- 1.修复看不到在线用户数据问题"
+      },
       {
         "version": "1.9.0",
         "date": "2026/8/23",
