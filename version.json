@@ -1,5 +1,5 @@
 {
-  "Version": "20260824161843",
+  "Version": "20260824191106",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "c717a63c66ffe2bf22d2dc4e24fb393c",
+      "hash": "69f0960f37773e10d490299c64f41789",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.2",
-    "minVersion": "1.9.1",
+    "version": "1.9.3",
+    "minVersion": "1.9.2",
     "releaseDate": "2026/8/24",
-    "notes": "- 1.修复服务区断线可能不重连问题\n- 2.修复可能反复无线重连卡号问题",
+    "notes": "- 1.修复快递卡顿问题\n- 2.修复董卓卡步骤问题（入1.9.3 版本还存在请及时联系）",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "f475c9c7850c3155bb812402d94c7953",
-    "exeSize": 25617936,
-    "desktopVersion": "1.9.2",
+    "exeMd5": "c63c75bd0539f93f652ae1912345e591",
+    "exeSize": 25457168,
+    "desktopVersion": "1.9.3",
     "changelog": [
+      {
+        "version": "1.9.3",
+        "date": "2026/8/24",
+        "notes": "- 1.修复快递卡顿问题\n- 2.修复董卓卡步骤问题（入1.9.3 版本还存在请及时联系）"
+      },
       {
         "version": "1.9.2",
         "date": "2026/8/24",
