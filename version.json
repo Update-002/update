@@ -1,5 +1,5 @@
 {
-  "Version": "20260824054720",
+  "Version": "20260824161843",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "8b18fad521eae9bb546a017138517de2",
+      "hash": "c717a63c66ffe2bf22d2dc4e24fb393c",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.1",
-    "minVersion": "1.9.0",
+    "version": "1.9.2",
+    "minVersion": "1.9.1",
     "releaseDate": "2026/8/24",
-    "notes": "- 1.修复看不到在线用户数据问题",
+    "notes": "- 1.修复服务区断线可能不重连问题\n- 2.修复可能反复无线重连卡号问题",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "45835dfa75d11607535feb1ab2e7d3e7",
-    "exeSize": 25774096,
-    "desktopVersion": "1.9.1",
+    "exeMd5": "f475c9c7850c3155bb812402d94c7953",
+    "exeSize": 25617936,
+    "desktopVersion": "1.9.2",
     "changelog": [
+      {
+        "version": "1.9.2",
+        "date": "2026/8/24",
+        "notes": "- 1.修复服务区断线可能不重连问题\n- 2.修复可能反复无线重连卡号问题"
+      },
       {
         "version": "1.9.1",
         "date": "2026/8/24",
