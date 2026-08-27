@@ -1,5 +1,5 @@
 {
-  "Version": "20260828030624",
+  "Version": "20260828030858",
   "Files": [
     {
       "path": "BotData.zip",
@@ -33,7 +33,7 @@
     },
     {
       "path": "jma.zip",
-      "hash": "a753067fabbf1be539dc45640928923e",
+      "hash": "5ac59566b8a558cf0a2ad8e5f6a02e13",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/jma.zip",
       "flat": false
     },
