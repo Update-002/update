@@ -1,5 +1,5 @@
 {
-  "Version": "20260828030858",
+  "Version": "20260830105700",
   "Files": [
     {
       "path": "BotData.zip",
@@ -9,13 +9,13 @@
     },
     {
       "path": "data.zip",
-      "hash": "4cee7a904f2d5c0b2fa6c097930c8fae",
+      "hash": "52f7045692792f3c933e36a5a419bf17",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip",
       "flat": false
     },
     {
       "path": "DWBot.zip",
-      "hash": "69f0960f37773e10d490299c64f41789",
+      "hash": "ad0118f1175a4fc627997853b89eda6a",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -33,7 +33,7 @@
     },
     {
       "path": "jma.zip",
-      "hash": "5ac59566b8a558cf0a2ad8e5f6a02e13",
+      "hash": "d5c64d7632ba2c369b22dfa77b781c89",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/jma.zip",
       "flat": false
     },
@@ -45,7 +45,7 @@
     },
     {
       "path": "pic.zip",
-      "hash": "c3498010ff0b2e4ead004a04c81c8bb1",
+      "hash": "437affa4b4ace617d43caea5a5e46750",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/pic.zip",
       "flat": false
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.3",
-    "minVersion": "1.9.2",
-    "releaseDate": "2026/8/24",
-    "notes": "- 1.修复快递卡顿问题\n- 2.修复董卓卡步骤问题（入1.9.3 版本还存在请及时联系）",
+    "version": "1.9.4",
+    "minVersion": "1.9.3",
+    "releaseDate": "2026/8/30",
+    "notes": "- 1.修复自动换召唤纹章问题\n- 2.修复存武将更新问题，技能学习问题，以及优化一些体验\n- 3.修复多开器可能部分看不到玩家问题",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "c63c75bd0539f93f652ae1912345e591",
-    "exeSize": 25457168,
-    "desktopVersion": "1.9.3",
+    "exeMd5": "f992469e9aa47164432c6c95bb3a2a15",
+    "exeSize": 25811472,
+    "desktopVersion": "1.9.4",
     "changelog": [
+      {
+        "version": "1.9.4",
+        "date": "2026/8/30",
+        "notes": "- 1.修复自动换召唤纹章问题\n- 2.修复存武将更新问题，技能学习问题，以及优化一些体验\n- 3.修复多开器可能部分看不到玩家问题"
+      },
       {
         "version": "1.9.3",
         "date": "2026/8/24",
