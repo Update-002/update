@@ -1,5 +1,5 @@
 {
-  "Version": "20260830105700",
+  "Version": "20260905040120",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "ad0118f1175a4fc627997853b89eda6a",
+      "hash": "74429b8f4d307e25ebfb551d5ee2a842",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -27,7 +27,7 @@
     },
     {
       "path": "DW百科.zip",
-      "hash": "b7780a07da40d0a3640e9d0aaf5c1077",
+      "hash": "04ed791411f137bc9ed4dc3456fdcd56",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW百科.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.4",
-    "minVersion": "1.9.3",
-    "releaseDate": "2026/8/30",
-    "notes": "- 1.修复自动换召唤纹章问题\n- 2.修复存武将更新问题，技能学习问题，以及优化一些体验\n- 3.修复多开器可能部分看不到玩家问题",
+    "version": "1.9.5",
+    "minVersion": "1.9.4",
+    "releaseDate": "2026/9/5",
+    "notes": "- 1.优化看不到角色问题\n- 2.优化白屏问题\n- 3.优化部分技能不会被设定为自动练级技能问题",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "f992469e9aa47164432c6c95bb3a2a15",
-    "exeSize": 25811472,
-    "desktopVersion": "1.9.4",
+    "exeMd5": "d7c431f58a51b67a815b67c728414ad5",
+    "exeSize": 25988112,
+    "desktopVersion": "1.9.5",
     "changelog": [
+      {
+        "version": "1.9.5",
+        "date": "2026/9/5",
+        "notes": "- 1.优化看不到角色问题\n- 2.优化白屏问题\n- 3.优化部分技能不会被设定为自动练级技能问题"
+      },
       {
         "version": "1.9.4",
         "date": "2026/8/30",
