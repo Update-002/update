@@ -1,5 +1,5 @@
 {
-  "Version": "20260905040120",
+  "Version": "20260905170311",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "74429b8f4d307e25ebfb551d5ee2a842",
+      "hash": "d9bfc34cf4e3b991621642b3ce1e6f62",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.5",
-    "minVersion": "1.9.4",
+    "version": "1.9.6",
+    "minVersion": "1.9.5",
     "releaseDate": "2026/9/5",
-    "notes": "- 1.优化看不到角色问题\n- 2.优化白屏问题\n- 3.优化部分技能不会被设定为自动练级技能问题",
+    "notes": "- 1.优化状态解目标选择\n- 2.优化战斗配置报错\n- 3.修复脚本无法正确执行",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "d7c431f58a51b67a815b67c728414ad5",
-    "exeSize": 25988112,
-    "desktopVersion": "1.9.5",
+    "exeMd5": "4433af4a797ca3158e30c0a003f56a7e",
+    "exeSize": 25822224,
+    "desktopVersion": "1.9.6",
     "changelog": [
+      {
+        "version": "1.9.6",
+        "date": "2026/9/5",
+        "notes": "- 1.优化状态解目标选择\n- 2.优化战斗配置报错\n- 3.修复脚本无法正确执行"
+      },
       {
         "version": "1.9.5",
         "date": "2026/9/5",
