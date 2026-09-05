@@ -1,5 +1,5 @@
 {
-  "Version": "20260905170311",
+  "Version": "20260905185017",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "d9bfc34cf4e3b991621642b3ce1e6f62",
+      "hash": "a68c765e1579052cd55f9e1ba51bf22d",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.6",
-    "minVersion": "1.9.5",
+    "version": "1.9.7",
+    "minVersion": "1.9.6",
     "releaseDate": "2026/9/5",
-    "notes": "- 1.优化状态解目标选择\n- 2.优化战斗配置报错\n- 3.修复脚本无法正确执行",
+    "notes": "- 1.修复战斗目标选择错误问题，增加状解自适应目标选项",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "4433af4a797ca3158e30c0a003f56a7e",
-    "exeSize": 25822224,
-    "desktopVersion": "1.9.6",
+    "exeMd5": "9de5aff33026010e3b33978428a0ffc7",
+    "exeSize": 25561104,
+    "desktopVersion": "1.9.7",
     "changelog": [
+      {
+        "version": "1.9.7",
+        "date": "2026/9/5",
+        "notes": "- 1.修复战斗目标选择错误问题，增加状解自适应目标选项"
+      },
       {
         "version": "1.9.6",
         "date": "2026/9/5",
