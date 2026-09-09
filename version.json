@@ -1,5 +1,5 @@
 {
-  "Version": "20260905185017",
+  "Version": "20260909105832",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,13 +15,13 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "a68c765e1579052cd55f9e1ba51bf22d",
+      "hash": "82c9aca1a4f7f903c2ead7fcd6d9504c",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
     {
       "path": "DWLogin.zip",
-      "hash": "0a20f82c398070c69c8d5e9f02e8f4c0",
+      "hash": "84cbbf4e58f2de38021a762507f64618",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWLogin.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.7",
-    "minVersion": "1.9.6",
-    "releaseDate": "2026/9/5",
-    "notes": "- 1.修复战斗目标选择错误问题，增加状解自适应目标选项",
+    "version": "1.9.8",
+    "minVersion": "1.9.7",
+    "releaseDate": "2026/9/9",
+    "notes": "- 1.修复召唤福神会无限开满背包问题了自定义配置\n- 2.增加封印解封技能会判断友军出手找更合适目标的选项\n- 3.修复更换武将0 1 2 转形象后BOT不会识别问题\n- 4.修复DWLogin.exe 0 1 2 转形象没有6个技能格子问题\n- 5.几次更新过程加入了非常多的新活动功能代码属于待更新状态，可能造成部分功能异常有遇到异常可以反馈",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "9de5aff33026010e3b33978428a0ffc7",
-    "exeSize": 25561104,
-    "desktopVersion": "1.9.7",
+    "exeMd5": "101041087cd613c0f528290dea2ffa56",
+    "exeSize": 25720336,
+    "desktopVersion": "1.9.8",
     "changelog": [
+      {
+        "version": "1.9.8",
+        "date": "2026/9/9",
+        "notes": "- 1.修复召唤福神会无限开满背包问题了自定义配置\n- 2.增加封印解封技能会判断友军出手找更合适目标的选项\n- 3.修复更换武将0 1 2 转形象后BOT不会识别问题\n- 4.修复DWLogin.exe 0 1 2 转形象没有6个技能格子问题\n- 5.几次更新过程加入了非常多的新活动功能代码属于待更新状态，可能造成部分功能异常有遇到异常可以反馈"
+      },
       {
         "version": "1.9.7",
         "date": "2026/9/5",
