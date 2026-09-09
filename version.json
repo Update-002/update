@@ -1,5 +1,5 @@
 {
-  "Version": "20260909105832",
+  "Version": "20260910022037",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "82c9aca1a4f7f903c2ead7fcd6d9504c",
+      "hash": "ce2ec7378d00da636d5340922520b7c4",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -69,15 +69,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.8",
-    "minVersion": "1.9.7",
-    "releaseDate": "2026/9/9",
-    "notes": "- 1.修复召唤福神会无限开满背包问题了自定义配置\n- 2.增加封印解封技能会判断友军出手找更合适目标的选项\n- 3.修复更换武将0 1 2 转形象后BOT不会识别问题\n- 4.修复DWLogin.exe 0 1 2 转形象没有6个技能格子问题\n- 5.几次更新过程加入了非常多的新活动功能代码属于待更新状态，可能造成部分功能异常有遇到异常可以反馈",
+    "version": "1.9.9",
+    "minVersion": "1.9.8",
+    "releaseDate": "2026/9/10",
+    "notes": "-",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "101041087cd613c0f528290dea2ffa56",
-    "exeSize": 25720336,
-    "desktopVersion": "1.9.8",
+    "exeMd5": "88538562224c1d207d85163751be7312",
+    "exeSize": 26007056,
+    "desktopVersion": "1.9.9",
     "changelog": [
+      {
+        "version": "1.9.9",
+        "date": "2026/9/10",
+        "notes": "-"
+      },
       {
         "version": "1.9.8",
         "date": "2026/9/9",
