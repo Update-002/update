@@ -1,5 +1,5 @@
 {
-  "Version": "20260926083826",
+  "Version": "20260926090513",
   "Files": [
     {
       "path": "BotData.zip",
@@ -27,7 +27,7 @@
     },
     {
       "path": "DW多开器.zip",
-      "hash": "6dc0122755ced598a05100084e38eef4",
+      "hash": "2204f8631ee9eac5d201efac1c728298",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW多开器.zip",
       "flat": true
     },
