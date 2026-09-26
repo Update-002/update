@@ -1,5 +1,5 @@
 {
-  "Version": "20260921120132",
+  "Version": "20260926083826",
   "Files": [
     {
       "path": "BotData.zip",
@@ -9,43 +9,49 @@
     },
     {
       "path": "data.zip",
-      "hash": "52f7045692792f3c933e36a5a419bf17",
+      "hash": "761e1e9f5156fd39c9ba19262a29b1e1",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip",
       "flat": false
     },
     {
       "path": "DWBot.zip",
-      "hash": "687dfec8cc48bbf81afdc3dcc29985ca",
+      "hash": "97fbeb459b5483ea130aa22dc2003ed4",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
     {
       "path": "DWLogin.zip",
-      "hash": "90a671cf86a8fb365480cfe99bebbf92",
+      "hash": "c2659eaee30ea79bf9298baf96d36f35",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWLogin.zip",
       "flat": true
     },
     {
+      "path": "DW多开器.zip",
+      "hash": "6dc0122755ced598a05100084e38eef4",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW多开器.zip",
+      "flat": true
+    },
+    {
       "path": "DW百科.zip",
-      "hash": "04ed791411f137bc9ed4dc3456fdcd56",
+      "hash": "765d97736550fa75bbf517f49ecc23c6",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW百科.zip",
       "flat": true
     },
     {
       "path": "jma.zip",
-      "hash": "d5c64d7632ba2c369b22dfa77b781c89",
+      "hash": "f93c07380207a583a76f7f5ccc922267",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/jma.zip",
       "flat": false
     },
     {
       "path": "menu.zip",
-      "hash": "e3e56ec3523f06570d2c16ff2b87d766",
+      "hash": "32aad90506505f03eec65dfa966e2aa4",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/menu.zip",
       "flat": false
     },
     {
       "path": "pic.zip",
-      "hash": "437affa4b4ace617d43caea5a5e46750",
+      "hash": "9b7569d5bf95669ecb8c6ed674fb76eb",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/pic.zip",
       "flat": false
     },
@@ -53,6 +59,12 @@
       "path": "SERVER.zip",
       "hash": "8db0c5d8d843cb8623f46977eac6eb16",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SERVER.zip",
+      "flat": true
+    },
+    {
+      "path": "SkillVisual.zip",
+      "hash": "95a390d72e6576bbbb8235343ce27a1a",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisual.zip",
       "flat": true
     },
     {
@@ -69,15 +81,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.13",
+    "version": "1.9.14",
     "minVersion": "0.0.0",
-    "releaseDate": "2026/9/21",
-    "notes": "- 修复给友方加 BUFF / 治疗类规则选错目标：条件写「敌人等级、敌人属性」这类时，技能会挑到敌人头上，服务端不会给敌人加，但这一手就白放了，队友始终加不上（结界、补血这类最容易中招）\n- 修复「队伍人数」数不对：以前恒为 0，「人数<5 就逃跑」这类规则每场都会触发；现在按场上队友角色数算，队友阵亡也不会让人数变少\n- 修复世界BOSS「去领排行奖」会一直重复领、屏幕被「已領取，不能重複領取」刷屏（现在领完就停）\n- 世界BOSS 里程碑改成一次领完所有已达标的档位，不用再一档一档点\n- 修复世界BOSS 排行榜的玩家名字显示成乱码\n- 修复月卡 / 畅游卡的到期时间差了 8 小时，以及用完卡右上角不刷新、要重登才变（机关盒同理）\n- 修复丢弃物品的提示数量不对（一格 50 个显示成「1 个物品」）",
+    "releaseDate": "2026/9/26",
+    "notes": "- 游戏更新：中秋活动上线（9/26 ~ 10/3），有中秋任务、「月宮來襲」和讨伐战「中秋團圓挑戰」\n- 游戏更新：新一批专武武将上线，嫦娥、吳剛、拳擊兔、孟獲、祝融、花鬘、公孫瓚、王元姬等 19 位，另有公孫三兄弟合体「界橋三雄」、南蠻一家合体技「南蠻入侵」\n- 游戏更新：坐骑灵开放，到涿郡「坐騎櫥窗」（「時裝櫥櫃」旁）体验：先认证本命坐骑，就能把其他 200 级坐骑献祭凝聚成坐骑灵，永久解锁该坐骑外观并获得属性加成（献祭会消耗掉那匹坐骑）\n- 游戏更新：进阶技能、免疫类效果有调整，并修复若干战斗问题\n- 修复召唤技（水神 / 青龙 / 凤凰 / 白虎 / 玄武）选中的位置有人阵亡后整场不召唤，现在可以选「自己 / 中间」当目标\n- DW百科：新增「活动大全」，可查看来袭活动每期的地点、阵容和奖励，讨伐战每天的 BOSS 军团，以及中秋任务的做法和奖励（多开器里点「打开 DW 百科」）\n- 本次更新附带多开器测试版（DW多开器.exe），原来的 update.exe 仍可继续使用。测试版主要是为了收集问题，方便之后把所有内容迁移到 DW多开器.exe 上，大家可以提前使用，有问题可以马上反馈给我",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "3b33bff815464db03e2b988f7de3a458",
-    "exeSize": 26118672,
-    "desktopVersion": "1.9.13",
+    "exeMd5": "d93747aeeb1c6581c627fbe53da64250",
+    "exeSize": 26589200,
+    "desktopVersion": "1.9.14",
     "changelog": [
+      {
+        "version": "1.9.14",
+        "date": "2026/9/26",
+        "notes": "- 游戏更新：中秋活动上线（9/26 ~ 10/3），有中秋任务、「月宮來襲」和讨伐战「中秋團圓挑戰」\n- 游戏更新：新一批专武武将上线，嫦娥、吳剛、拳擊兔、孟獲、祝融、花鬘、公孫瓚、王元姬等 19 位，另有公孫三兄弟合体「界橋三雄」、南蠻一家合体技「南蠻入侵」\n- 游戏更新：坐骑灵开放，到涿郡「坐騎櫥窗」（「時裝櫥櫃」旁）体验：先认证本命坐骑，就能把其他 200 级坐骑献祭凝聚成坐骑灵，永久解锁该坐骑外观并获得属性加成（献祭会消耗掉那匹坐骑）\n- 游戏更新：进阶技能、免疫类效果有调整，并修复若干战斗问题\n- 修复召唤技（水神 / 青龙 / 凤凰 / 白虎 / 玄武）选中的位置有人阵亡后整场不召唤，现在可以选「自己 / 中间」当目标\n- DW百科：新增「活动大全」，可查看来袭活动每期的地点、阵容和奖励，讨伐战每天的 BOSS 军团，以及中秋任务的做法和奖励（多开器里点「打开 DW 百科」）\n- 本次更新附带多开器测试版（DW多开器.exe），原来的 update.exe 仍可继续使用。测试版主要是为了收集问题，方便之后把所有内容迁移到 DW多开器.exe 上，大家可以提前使用，有问题可以马上反馈给我"
+      },
       {
         "version": "1.9.13",
         "date": "2026/9/21",
