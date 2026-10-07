@@ -1,5 +1,5 @@
 {
-  "Version": "20261006152703",
+  "Version": "20261007111220",
   "Files": [
     {
       "path": "BotData.zip",
@@ -9,13 +9,13 @@
     },
     {
       "path": "data.zip",
-      "hash": "6955a5de9795b2cab1488064f941c1cb",
+      "hash": "a74b47a7ebbfe883bfa0ba599c378829",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip",
       "flat": false
     },
     {
       "path": "DWBot.zip",
-      "hash": "a1aa349099cf1f3a977a7ddb5a97dad6",
+      "hash": "d1960a73ded1fa9ecbbc834528a63e88",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -27,7 +27,7 @@
     },
     {
       "path": "DW多开器.zip",
-      "hash": "97379fe6bc68db95ffe9ae449ef12a69",
+      "hash": "0b7281251a5b2b5ac8b7a47f6d2f33ea",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW多开器.zip",
       "flat": true
     },
@@ -69,7 +69,7 @@
     },
     {
       "path": "TSBot.zip",
-      "hash": "03e7de19968af8140696154bdce99b1d",
+      "hash": "ffee4972359a747ca683fd20e66cebea",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/TSBot.zip",
       "flat": true
     },
@@ -81,15 +81,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.20",
+    "version": "1.9.21",
     "minVersion": "0.0.0",
-    "releaseDate": "2026/10/6",
-    "notes": "- BOT：点数商城加回来了，页签、商品和价格都跟游戏里一样，鼠标停在商品上能看详情（和包裹一样），切换页签更顺\n- BOT：脚本「检查道具」可以填至少几个，例如小柚子要有 5 个才算有，不够就按「无则跳步」走\n- BOT：自动快递的「满 N」按单个格子算，哪一格攒到 N 个就寄哪一格，没满的留着接着攒，不再把零头一起寄出去；凑够了会马上寄，不用等很久\n- BOT：步骤范围循环改了以后，其他选着同一个脚本的号一起改，不用换个脚本再换回来\n- BOT：指令设置里勾选物品选项等开关时，菜单不再自动收起，可以连着勾好几项，鼠标移开才收\n- BOT：修复「九霄跑通」脚本一直重复打同一层的问题，更新一下脚本就行",
+    "releaseDate": "2026/10/7",
+    "notes": "- BOT：收件号挂着网页挂机时，自动快递也会照常寄了（以前要等收件号连上 BOT 才寄）；对方不在线、物品栏满了会写明原因，上线或腾出空格后自动接着寄",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "a6d1c03e8f4a940861d405340f9d742f",
-    "exeSize": 26176528,
-    "desktopVersion": "1.9.20",
+    "exeMd5": "76a59c27f21e94da7d8030f1ff3b9016",
+    "exeSize": 26286096,
+    "desktopVersion": "1.9.21",
     "changelog": [
+      {
+        "version": "1.9.21",
+        "date": "2026/10/7",
+        "notes": "- BOT：收件号挂着网页挂机时，自动快递也会照常寄了（以前要等收件号连上 BOT 才寄）；对方不在线、物品栏满了会写明原因，上线或腾出空格后自动接着寄"
+      },
       {
         "version": "1.9.20",
         "date": "2026/10/6",
