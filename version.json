@@ -1,5 +1,5 @@
 {
-  "Version": "20261007175120",
+  "Version": "20261007235942",
   "Files": [
     {
       "path": "BotData.zip",
@@ -9,25 +9,25 @@
     },
     {
       "path": "data.zip",
-      "hash": "a74b47a7ebbfe883bfa0ba599c378829",
+      "hash": "08df047ac0cca0e2d9c7ec8e8f2b5534",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip",
       "flat": false
     },
     {
       "path": "DWBot.zip",
-      "hash": "fbf2c7504584d76e77d6e572e301d359",
+      "hash": "14a7c7e177efc581b26e6b395467059b",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
     {
       "path": "DWLogin.zip",
-      "hash": "b4eb11e70dfad8bf811a69660b3f733f",
+      "hash": "cb66e610b812713387d02d462605ba94",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWLogin.zip",
       "flat": true
     },
     {
       "path": "DW多开器.zip",
-      "hash": "0b7281251a5b2b5ac8b7a47f6d2f33ea",
+      "hash": "df45859ba89755b6e295a461e2e4d06d",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW多开器.zip",
       "flat": true
     },
@@ -63,8 +63,14 @@
     },
     {
       "path": "SkillVisual.zip",
-      "hash": "95a390d72e6576bbbb8235343ce27a1a",
+      "hash": "5be59360a3029da00c2074976aec0cc1",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisual.zip",
+      "flat": true
+    },
+    {
+      "path": "SkillVisualDLL.zip",
+      "hash": "7b1f6e1e97271618970fa3006a3b3a5b",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisualDLL.zip",
       "flat": true
     },
     {
@@ -81,15 +87,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.22",
+    "version": "1.9.23",
     "minVersion": "0.0.0",
     "releaseDate": "2026/10/7",
-    "notes": "- 游戏：转转乐重新登录（包括每天维护之后）会停在原来那个转盘，不会再跳回第 1 个\n- BOT：转转乐自动转遇到掉线会自己停下，重连后确认好转盘再开；背包页「转换奖励」显示的奖励会跟着刷新，和实际抽的转盘一致\n- BOT：寄快递时人物照常走路、飞图、点 NPC，跑脚本不会再因为快递卡住",
+    "notes": "- 游戏：战斗中每个单位头顶会显示身上的状态和剩余回合；鼠标停在单位上会弹出详情（等级、属性、HP、SP、状态和加成等），观战、断线重连也看得到\n- 游戏：修复用三思錦囊、慎思錦囊洗技能点时，錦囊扣了技能却没变的问题；洗不成的不会再扣錦囊\n- BOT：组队后军师固定是战斗设定里第 2 格的号，不管队员谁先进队\n- BOT：技能学习左边的武将栏，每只武将可以直接点「设为出战」「休息」（右键也有），切换上面的账号就能很快换好 5 个号的出战武将",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "42cb7db63eb26439759d66f0a577fe96",
-    "exeSize": 26255888,
-    "desktopVersion": "1.9.22",
+    "exeMd5": "35285da58c94bc61ea1c30e9184bd5fb",
+    "exeSize": 26561040,
+    "desktopVersion": "1.9.23",
     "changelog": [
+      {
+        "version": "1.9.23",
+        "date": "2026/10/7",
+        "notes": "- 游戏：战斗中每个单位头顶会显示身上的状态和剩余回合；鼠标停在单位上会弹出详情（等级、属性、HP、SP、状态和加成等），观战、断线重连也看得到\n- 游戏：修复用三思錦囊、慎思錦囊洗技能点时，錦囊扣了技能却没变的问题；洗不成的不会再扣錦囊\n- BOT：组队后军师固定是战斗设定里第 2 格的号，不管队员谁先进队\n- BOT：技能学习左边的武将栏，每只武将可以直接点「设为出战」「休息」（右键也有），切换上面的账号就能很快换好 5 个号的出战武将"
+      },
       {
         "version": "1.9.22",
         "date": "2026/10/7",
