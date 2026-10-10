@@ -1,5 +1,5 @@
 {
-  "Version": "20261010120332",
+  "Version": "20261010161853",
   "Files": [
     {
       "path": "BotData.zip",
@@ -27,7 +27,7 @@
     },
     {
       "path": "DW多开器.zip",
-      "hash": "8152bb1867465657d627cc29cc34e775",
+      "hash": "da22b9f72d5abaa92fabdc44a45501d6",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW多开器.zip",
       "flat": true
     },
@@ -69,7 +69,7 @@
     },
     {
       "path": "SkillVisualDLL.zip",
-      "hash": "bf6c7701048e06c0fbb74cffb82a503b",
+      "hash": "f7223a4b4414d2cdcb031ce5e3df37fe",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisualDLL.zip",
       "flat": true
     },
