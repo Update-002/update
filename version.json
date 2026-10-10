@@ -1,5 +1,5 @@
 {
-  "Version": "20261009112031",
+  "Version": "20261010120332",
   "Files": [
     {
       "path": "BotData.zip",
@@ -9,13 +9,13 @@
     },
     {
       "path": "data.zip",
-      "hash": "6b62f40e3406ec613b63ed70aedf1edc",
+      "hash": "3132dfa0eb6e3aa79ed4bdae0e9ff399",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip",
       "flat": false
     },
     {
       "path": "DWBot.zip",
-      "hash": "bc16408f90c185da7a22bad4d916f3e9",
+      "hash": "5bac7bfc0e6c58e02c4cc0feff6c7278",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -69,7 +69,7 @@
     },
     {
       "path": "SkillVisualDLL.zip",
-      "hash": "47d0bd74908c02951547b42de50db676",
+      "hash": "bf6c7701048e06c0fbb74cffb82a503b",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisualDLL.zip",
       "flat": true
     },
@@ -87,15 +87,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.24",
+    "version": "1.9.25",
     "minVersion": "0.0.0",
-    "releaseDate": "2026/10/9",
-    "notes": "- 游戏：团队赛开放：每月第一个周末，周六 12:00–22:00 是准备日（建号、配装、随机匹配试玩），周日 18:00 开大厅和报名、20:00 开打；5 人组队参加，淘汰赛双败、胜者组三局两胜；首期 10/11（周日），在新版多开器的「团队赛」面板参加\n- 游戏：战斗中单位头顶的状态最多显示两行（6 个），控制和减益排在前面\n- 新版多开器：面板可以弹出成独立窗口，会记住位置，切换账号时跟着换成那个角色\n- 新版多开器：团队赛面板改版：我的赛程、一键配装、找队员、对阵图和三局两胜比分、名次奖励\n- 新版多开器：修复其它一些界面小问题\n- 图鉴：新增「坐骑橱窗与坐骑灵」玩法说明，团队赛规则按新版更新\n- BOT：战斗里别的玩家的敏捷不再公开，PVP 里别的玩家（对手和队友）的属性和加成也不公开；自己这个 BOT 控制的号照常显示\n- BOT：战斗里点开带专武的武将，攻击、知力会算上专武加的那一截（以前看起来没变）",
+    "releaseDate": "2026/10/10",
+    "notes": "- 游戏：新增 /droplist 指令，可以设强制丢弃清单（套装、炼化、附魔过的装备也能丢）\n- 游戏：修复单人乱斗排行榜名次和发的奖励对不上、领不到\n- BOT：新增「道具总览」和「点数总览」，所有号的道具、点数一张表看完\n- BOT：点数商城新增「武将培养试算」，商品也可以搜索了\n- BOT：修复其它一些问题",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "1348660742c9c2cef744ba60160720a3",
-    "exeSize": 26379280,
-    "desktopVersion": "1.9.24",
+    "exeMd5": "c26eaaa468f16080fa28d5df2c038e62",
+    "exeSize": 26362896,
+    "desktopVersion": "1.9.25",
     "changelog": [
+      {
+        "version": "1.9.25",
+        "date": "2026/10/10",
+        "notes": "- 游戏：新增 /droplist 指令，可以设强制丢弃清单（套装、炼化、附魔过的装备也能丢）\n- 游戏：修复单人乱斗排行榜名次和发的奖励对不上、领不到\n- BOT：新增「道具总览」和「点数总览」，所有号的道具、点数一张表看完\n- BOT：点数商城新增「武将培养试算」，商品也可以搜索了\n- BOT：修复其它一些问题"
+      },
       {
         "version": "1.9.24",
         "date": "2026/10/9",
