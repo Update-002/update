@@ -1,5 +1,5 @@
 {
-  "Version": "20261011110821",
+  "Version": "20261011161738",
   "Files": [
     {
       "path": "BotData.zip",
@@ -27,19 +27,19 @@
     },
     {
       "path": "DW多开器.zip",
-      "hash": "da22b9f72d5abaa92fabdc44a45501d6",
+      "hash": "c24777f4ba7166e3db541e562b100a63",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW多开器.zip",
       "flat": true
     },
     {
       "path": "DW百科.zip",
-      "hash": "9f2d2ef8b3918197d4a4e114b4734fb7",
+      "hash": "dab7d8435b58a575dcc889ffcd8897e2",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW百科.zip",
       "flat": true
     },
     {
       "path": "jma.zip",
-      "hash": "f93c07380207a583a76f7f5ccc922267",
+      "hash": "55636bfb618b5a5b12ed67a6b3da0823",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/jma.zip",
       "flat": false
     },
