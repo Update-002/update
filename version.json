@@ -1,5 +1,5 @@
 {
-  "Version": "20261012010310",
+  "Version": "20261013112201",
   "Files": [
     {
       "path": "BotData.zip",
@@ -9,13 +9,13 @@
     },
     {
       "path": "data.zip",
-      "hash": "6ea787df5e657523ffdec9f9f1293d2a",
+      "hash": "a5dee998c3fb74c8c59e79f462f9d74e",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip",
       "flat": false
     },
     {
       "path": "DWBot.zip",
-      "hash": "5bac7bfc0e6c58e02c4cc0feff6c7278",
+      "hash": "73716055cd08fbf8b8ca9796eb29e6e4",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -39,7 +39,7 @@
     },
     {
       "path": "jma.zip",
-      "hash": "55636bfb618b5a5b12ed67a6b3da0823",
+      "hash": "6b320f669ae616148684b1dbe4c98c4f",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/jma.zip",
       "flat": false
     },
@@ -51,7 +51,7 @@
     },
     {
       "path": "pic.zip",
-      "hash": "9b7569d5bf95669ecb8c6ed674fb76eb",
+      "hash": "8909cc19cba806db7b4d33e372e7ac6d",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/pic.zip",
       "flat": false
     },
@@ -69,7 +69,7 @@
     },
     {
       "path": "SkillVisualDLL.zip",
-      "hash": "6eeeb91f1e0dd5932f038e494b1dc3b5",
+      "hash": "c905791b69b8b756bde9000108cfa0d7",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisualDLL.zip",
       "flat": true
     },
@@ -87,15 +87,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.25",
+    "version": "1.9.26",
     "minVersion": "0.0.0",
-    "releaseDate": "2026/10/10",
-    "notes": "- 游戏：新增 /droplist 指令，可以设强制丢弃清单（套装、炼化、附魔过的装备也能丢）\n- 游戏：修复单人乱斗排行榜名次和发的奖励对不上、领不到\n- BOT：新增「道具总览」和「点数总览」，所有号的道具、点数一张表看完\n- BOT：点数商城新增「武将培养试算」，商品也可以搜索了\n- BOT：修复其它一些问题",
+    "releaseDate": "2026/10/13",
+    "notes": "- 游戏：修复南蠻入侵：改成孟獲、祝融、花鬘三人合击，并新增南蠻入侵专属特效\n- 游戏：战斗新增「糧草」，是之后新技能和 PVP 技能释放要消耗的点数，日常打怪不受影响\n- 游戏：TSDW套裝進階券 进阶套装增加新方案：材料可以改用千年冰晶 ×10 或晞星羽毛 ×10\n- 游戏：修复其它一些问题\n- BOT：几个号都设了水神解状态时，同一回合只放一只，不再重复解",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "c26eaaa468f16080fa28d5df2c038e62",
-    "exeSize": 26362896,
-    "desktopVersion": "1.9.25",
+    "exeMd5": "fb3fadd05f82c666fa0ecdf61297ea11",
+    "exeSize": 26410512,
+    "desktopVersion": "1.9.26",
     "changelog": [
+      {
+        "version": "1.9.26",
+        "date": "2026/10/13",
+        "notes": "- 游戏：修复南蠻入侵：改成孟獲、祝融、花鬘三人合击，并新增南蠻入侵专属特效\n- 游戏：战斗新增「糧草」，是之后新技能和 PVP 技能释放要消耗的点数，日常打怪不受影响\n- 游戏：TSDW套裝進階券 进阶套装增加新方案：材料可以改用千年冰晶 ×10 或晞星羽毛 ×10\n- 游戏：修复其它一些问题\n- BOT：几个号都设了水神解状态时，同一回合只放一只，不再重复解"
+      },
       {
         "version": "1.9.25",
         "date": "2026/10/10",
