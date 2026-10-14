@@ -1,5 +1,5 @@
 {
-  "Version": "20261013153232",
+  "Version": "20261014111238",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,7 +15,7 @@
     },
     {
       "path": "DWBot.zip",
-      "hash": "73716055cd08fbf8b8ca9796eb29e6e4",
+      "hash": "a5214a74041b29e8cdd2c8b138d4733b",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -69,7 +69,7 @@
     },
     {
       "path": "SkillVisualDLL.zip",
-      "hash": "c905791b69b8b756bde9000108cfa0d7",
+      "hash": "64d1b5dac6ac0ce0dbac9703285a4d95",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisualDLL.zip",
       "flat": true
     },
@@ -87,15 +87,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.26",
+    "version": "1.9.27",
     "minVersion": "0.0.0",
-    "releaseDate": "2026/10/13",
-    "notes": "- 游戏：修复南蠻入侵：改成孟獲、祝融、花鬘三人合击，并新增南蠻入侵专属特效\n- 游戏：战斗新增「糧草」，是之后新技能和 PVP 技能释放要消耗的点数，日常打怪不受影响\n- 游戏：TSDW套裝進階券 进阶套装增加新方案：材料可以改用千年冰晶 ×10 或晞星羽毛 ×10\n- 游戏：修复其它一些问题\n- BOT：几个号都设了水神解状态时，同一回合只放一只，不再重复解",
+    "releaseDate": "2026/10/14",
+    "notes": "- 游戏：修复其它一些问题\n- BOT：「自动更换召唤纹章」分成人物、宠物两个开关，只想让宠物用的，把「(人物)」那个关掉就行\n- BOT：战斗画面上的血和魔每回合跟实际对齐，修复哪吒等武将魔力显示比实际少很多\n- BOT：修复掉线重连多了以后内存越占越多的问题；白屏后重开，之前的日志不会再被冲掉",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "fb3fadd05f82c666fa0ecdf61297ea11",
-    "exeSize": 26410512,
-    "desktopVersion": "1.9.26",
+    "exeMd5": "e778c2791cb902932caa3923095517be",
+    "exeSize": 26493968,
+    "desktopVersion": "1.9.27",
     "changelog": [
+      {
+        "version": "1.9.27",
+        "date": "2026/10/14",
+        "notes": "- 游戏：修复其它一些问题\n- BOT：「自动更换召唤纹章」分成人物、宠物两个开关，只想让宠物用的，把「(人物)」那个关掉就行\n- BOT：战斗画面上的血和魔每回合跟实际对齐，修复哪吒等武将魔力显示比实际少很多\n- BOT：修复掉线重连多了以后内存越占越多的问题；白屏后重开，之前的日志不会再被冲掉"
+      },
       {
         "version": "1.9.26",
         "date": "2026/10/13",
