@@ -1,21 +1,21 @@
 {
-  "Version": "20261022120323",
+  "Version": "20261026014839",
   "Files": [
     {
       "path": "BotData.zip",
-      "hash": "a7ab718d5606d94e8cd6c6ea3ff7ce94",
+      "hash": "4c70ca5f2cfbfac332e869fdb5205a04",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/BotData.zip",
       "flat": false
     },
     {
       "path": "data.zip",
-      "hash": "a5dee998c3fb74c8c59e79f462f9d74e",
+      "hash": "d884a38615a99e8d4cebc1503d10f680",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip",
       "flat": false
     },
     {
       "path": "DWBot.zip",
-      "hash": "47c5d3a8e8409746a44a4db9575fa6f2",
+      "hash": "d91f0fda602662717dc5c042d120a6cf",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -27,31 +27,31 @@
     },
     {
       "path": "DW多开器.zip",
-      "hash": "eec716e93aed389a056ce70680c93577",
+      "hash": "0b0fd48d64eb77a8be74aec57497d4c5",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW多开器.zip",
       "flat": true
     },
     {
       "path": "DW百科.zip",
-      "hash": "dab7d8435b58a575dcc889ffcd8897e2",
+      "hash": "5b03abdd12ba05111eac1def5787c20f",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW百科.zip",
       "flat": true
     },
     {
       "path": "jma.zip",
-      "hash": "6b320f669ae616148684b1dbe4c98c4f",
+      "hash": "e65a07685f1b3cfa653e87a2f61f7c9d",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/jma.zip",
       "flat": false
     },
     {
       "path": "menu.zip",
-      "hash": "32aad90506505f03eec65dfa966e2aa4",
+      "hash": "f7241f05ae4b5db5b5490b3c86c44005",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/menu.zip",
       "flat": false
     },
     {
       "path": "pic.zip",
-      "hash": "8909cc19cba806db7b4d33e372e7ac6d",
+      "hash": "1ee4843b9552d1fef00bf47c6783aa97",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/pic.zip",
       "flat": false
     },
@@ -63,14 +63,134 @@
     },
     {
       "path": "SkillVisual.zip",
-      "hash": "5be59360a3029da00c2074976aec0cc1",
+      "hash": "323d085d1c564cbbe793d67a83de9cd7",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisual.zip",
       "flat": true
     },
     {
       "path": "SkillVisualDLL.zip",
-      "hash": "64d1b5dac6ac0ce0dbac9703285a4d95",
+      "hash": "7202c6114a0f33b29d788c1e3d05e592",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisualDLL.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_Activities.zip",
+      "hash": "d3d041ccc8d3f9b455f0b6be73ce9f30",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Activities.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_BossBar.zip",
+      "hash": "c1b59f6b5b2762acd2e5d1f72cef8d69",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_BossBar.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_CommonHelp.zip",
+      "hash": "e63bd54e920cfb10e72f6e24b8e85f30",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_CommonHelp.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_CustomFeatures.zip",
+      "hash": "73670364a23d674f3b73d1b5510eeca1",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_CustomFeatures.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_Enchantment.zip",
+      "hash": "1729b9aedd7767c2b0b0d26b4c35ba77",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Enchantment.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_EnchantmentItems.zip",
+      "hash": "790c23eecd356c08a414cf1724d1f9f3",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_EnchantmentItems.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_GuildUi.zip",
+      "hash": "b7c8b7202270b3cd98f8983b163892fe",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_GuildUi.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_GuildUiSlots.zip",
+      "hash": "b72710279eba1bd66179e3ced92459e3",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_GuildUiSlots.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_Inscription.zip",
+      "hash": "853bbfde695bce8f4eb66fa5fb4a449f",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Inscription.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_InscriptionOpening.zip",
+      "hash": "ffee329fc9c4c7e2440fa29f2fcd7c05",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_InscriptionOpening.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_JadePop.zip",
+      "hash": "de114fc37f9b4f6bae67999bb554ab7c",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_JadePop.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_NativeUiCommon.zip",
+      "hash": "8d8806d4070b7999a756420d4f57a1d0",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_NativeUiCommon.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_NativeUiPages.zip",
+      "hash": "38dd20b76f3a986d3d6161157860928c",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_NativeUiPages.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_PetSoul.zip",
+      "hash": "5cce18261cec923b892b56dbbd3737a5",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_PetSoul.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_Quenching.zip",
+      "hash": "a3fcaf39472406921f3872cb032974b1",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Quenching.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_SkillActors.zip",
+      "hash": "20e26737f88f1a4b2efdeb3db605032e",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_SkillActors.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_StatusHud.zip",
+      "hash": "ab63c89858023cdd1e79e5b088e54525",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_StatusHud.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_Text.zip",
+      "hash": "0a7c1eac6980e4fe9a3f5aaa3d18857a",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Text.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_XBag.zip",
+      "hash": "0cab88115c68cffedc79fa4090cb2be3",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_XBag.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_Zodiac.zip",
+      "hash": "1de1354e1d9e180a54bbafba8a11b10a",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Zodiac.zip",
       "flat": true
     },
     {
@@ -87,15 +207,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.28",
+    "version": "1.9.29",
     "minVersion": "0.0.0",
-    "releaseDate": "2026/10/22",
-    "notes": "- BOT、多开器现在就能更新；标「游戏」的在 10/24（周六）11:00 维护后生效\n- 【更新后生效】BOT：修复挂机时间长了界面变白\n- 【更新后生效】BOT：新增「兑换活动」，挂着的号不用开游戏也能兑换\n- 【更新后生效】BOT：世界BOSS面板改版：本队几个号的挑战次数、伤害、名次、里程碑、排行奖一张表看完，在 BOT 里就能领\n- 【更新后生效】BOT：修复「自动更换召唤纹章(宠物)」关掉后，宠物的纹章坏了还是会被自动换上\n- 【更新后生效】BOT：同时开好几个 BOT 时，道具总览、点数总览也会显示其他 BOT 的号，资料跟着更新\n- 【更新后生效】BOT：修复其它一些问题\n- 【更新后生效】新版多开器：修复有时上方活动按钮全部点不开、要重启电脑才好；顶栏显示「代理未启动」时点一下就能处理\n- 【更新后生效】新版多开器：修复淬炼面板主角方案显示不对、切到别的方案后切不回来\n- 【更新后生效】游戏：修复武将献祭增加羁绊后角色不能移动，另外几个对话框操作完卡住的问题也一起修了\n- 【更新后生效】游戏：修复背包没满时打开商城也会弹「物品欄已滿無法領取商城寶盒」\n- 【更新后生效】游戏：修复主角淬炼在方案 2～4 点解锁，会解到方案 1 上\n- 【更新后生效】游戏：修复其它许多问题\n- 【10/24 11:00 后开启】游戏：新增擴充物品欄：物品欄可以加开分页（每页 50 格，最多 10 页，每页单独开通）；钱庄也能升级，最多到第 10 页\n- 【10/24 11:00 后开启】游戏：坐骑橱窗新增「收集羈絆」，可以收集十二生肖、四聖獸坐骑，集齐有专属开场动画\n- 【10/24 11:00 后开启】游戏：打 BOSS 时画面上方会显示 BOSS 血条；攻击、治疗暴击时有专属的暴击飘字\n- 【10/24 11:00 后开启】游戏：一人四宠可以在新版多开器的自动功能栏一键开关\n- 【10/24 11:00 后开启】BOT：擴充物品欄、钱庄分页在 BOT 里也能用（翻页、整理、开通、升级钱庄）\n- 游戏：军团战玩法升级中，10/24 维护后周日攻城战暂停开放",
+    "releaseDate": "2026/10/26",
+    "notes": "- 这次游戏更新内容较多，请先关闭游戏再更新\n- 游戏：新增「靈獸收集」：徐無山新传送门进入「靈契天境」，挑战十二生肖、四聖獸收集坐骑，集齐有「收集羈絆」加成\n- 游戏：新增「套裝銘刻」：角色六个部位可以开启铭刻，用同名装备逐级升到 +5\n- 游戏：军团战玩法升级中，周日攻城战暂停开放\n- 游戏：金錢選單新增「武將拉霸」（投吞食拉霸幣给武将加经验）和「轉蛋」（直接打开转蛋机）\n- 游戏：七星命盤新增「武將」页签，每只武将可以单独点本命燈\n- 游戏：新增擴充物品欄（每页 50 格，最多 10 页）和钱庄分页（最多 10 页），BOT 里也能用\n- 游戏：新增附魔、神器淬炼、收藏、将星熔铸、武将重生等功能面板\n- 游戏：打 BOSS 时画面上方显示 BOSS 血条；攻击、治疗暴击有专属飘字\n- 游戏：馴獸術人人都有，骑大象不用再学\n- 游戏：修复献祭羁绊等对话框操作完角色走不动、背包放不下时合成和交易会吞东西、天珠窗重点已亮的球会白扣球点等许多问题\n- BOT：一个窗口最多可以开 35 个号（7 队）\n- BOT：工具栏新增「进阶」，董卓、擂台进阶可以全队一起开关\n- BOT：修复 5 人满队还一直跳组队请求、组队人数显示 4 人；修复快捷脚本「全体」打完一场队员又被拉回队里\n- BOT：修复断线重连后第一个号有时不会自动上马；没有马时也会骑大象\n- BOT：多开挂机更省内存、更流畅；修复其它一些问题",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "3b5505d705a661ff55d0603b383e176f",
-    "exeSize": 26709520,
-    "desktopVersion": "1.9.28",
+    "exeMd5": "d46905c5879dc79dfdca958df2b56375",
+    "exeSize": 26200080,
+    "desktopVersion": "1.9.29",
     "changelog": [
+      {
+        "version": "1.9.29",
+        "date": "2026/10/26",
+        "notes": "- 这次游戏更新内容较多，请先关闭游戏再更新\n- 游戏：新增「靈獸收集」：徐無山新传送门进入「靈契天境」，挑战十二生肖、四聖獸收集坐骑，集齐有「收集羈絆」加成\n- 游戏：新增「套裝銘刻」：角色六个部位可以开启铭刻，用同名装备逐级升到 +5\n- 游戏：军团战玩法升级中，周日攻城战暂停开放\n- 游戏：金錢選單新增「武將拉霸」（投吞食拉霸幣给武将加经验）和「轉蛋」（直接打开转蛋机）\n- 游戏：七星命盤新增「武將」页签，每只武将可以单独点本命燈\n- 游戏：新增擴充物品欄（每页 50 格，最多 10 页）和钱庄分页（最多 10 页），BOT 里也能用\n- 游戏：新增附魔、神器淬炼、收藏、将星熔铸、武将重生等功能面板\n- 游戏：打 BOSS 时画面上方显示 BOSS 血条；攻击、治疗暴击有专属飘字\n- 游戏：馴獸術人人都有，骑大象不用再学\n- 游戏：修复献祭羁绊等对话框操作完角色走不动、背包放不下时合成和交易会吞东西、天珠窗重点已亮的球会白扣球点等许多问题\n- BOT：一个窗口最多可以开 35 个号（7 队）\n- BOT：工具栏新增「进阶」，董卓、擂台进阶可以全队一起开关\n- BOT：修复 5 人满队还一直跳组队请求、组队人数显示 4 人；修复快捷脚本「全体」打完一场队员又被拉回队里\n- BOT：修复断线重连后第一个号有时不会自动上马；没有马时也会骑大象\n- BOT：多开挂机更省内存、更流畅；修复其它一些问题"
+      },
       {
         "version": "1.9.28",
         "date": "2026/10/22",
