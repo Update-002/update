@@ -1,5 +1,5 @@
 {
-  "Version": "20261027035047",
+  "Version": "20261027140718",
   "Files": [
     {
       "path": "BotData.zip",
@@ -9,7 +9,7 @@
     },
     {
       "path": "data.zip",
-      "hash": "730f8825dfff29a0947f90f1de94b020",
+      "hash": "34c397063f42fcd66de29edcb303e545",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip",
       "flat": false
     },
@@ -33,7 +33,7 @@
     },
     {
       "path": "DW百科.zip",
-      "hash": "34176b9b8689501f48aa970e1744a7ce",
+      "hash": "50df64d3ba99c2be15943ac4572fccb1",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW百科.zip",
       "flat": true
     },
@@ -51,7 +51,7 @@
     },
     {
       "path": "pic.zip",
-      "hash": "1ee4843b9552d1fef00bf47c6783aa97",
+      "hash": "91d71982e424c86a502486d2024c9e5f",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/pic.zip",
       "flat": false
     },
@@ -69,7 +69,7 @@
     },
     {
       "path": "SkillVisualDLL.zip",
-      "hash": "7202c6114a0f33b29d788c1e3d05e592",
+      "hash": "382449e7bb3f67fb5f83b04d380ded45",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisualDLL.zip",
       "flat": true
     },
@@ -77,6 +77,12 @@
       "path": "SV_Activities.zip",
       "hash": "d3d041ccc8d3f9b455f0b6be73ce9f30",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Activities.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_AttrPanel.zip",
+      "hash": "a0d4a9e8b0b27c2e8232b0e2a5fe375a",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_AttrPanel.zip",
       "flat": true
     },
     {
@@ -111,7 +117,7 @@
     },
     {
       "path": "SV_GuildUi.zip",
-      "hash": "b7c8b7202270b3cd98f8983b163892fe",
+      "hash": "132ad30eb2bd826129df713323a9558b",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_GuildUi.zip",
       "flat": true
     },
@@ -123,7 +129,7 @@
     },
     {
       "path": "SV_Inscription.zip",
-      "hash": "853bbfde695bce8f4eb66fa5fb4a449f",
+      "hash": "d7f5cb3a49ab6fcb01a75b36919c8074",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Inscription.zip",
       "flat": true
     },
