@@ -1,5 +1,5 @@
 {
-  "Version": "20261028013244",
+  "Version": "20261029011942",
   "Files": [
     {
       "path": "BotData.zip",
@@ -9,13 +9,13 @@
     },
     {
       "path": "data.zip",
-      "hash": "d96ddfe9cc2c0fb18ba0708eb66c4da4",
+      "hash": "e74d2f64cb902eb4f28150c5514e19aa",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip",
       "flat": false
     },
     {
       "path": "DWBot.zip",
-      "hash": "b569d761f80f1eba4f3c8dea04d8cf54",
+      "hash": "56cb77536ab9ee9bfc1f0bace732db60",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -69,7 +69,7 @@
     },
     {
       "path": "SkillVisualDLL.zip",
-      "hash": "382449e7bb3f67fb5f83b04d380ded45",
+      "hash": "9c382a4613511bd82fc36db82bff14df",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisualDLL.zip",
       "flat": true
     },
@@ -117,7 +117,7 @@
     },
     {
       "path": "SV_GuildUi.zip",
-      "hash": "132ad30eb2bd826129df713323a9558b",
+      "hash": "3191002f1742b0453ba508f7a78a33e3",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_GuildUi.zip",
       "flat": true
     },
@@ -129,7 +129,7 @@
     },
     {
       "path": "SV_Inscription.zip",
-      "hash": "d7f5cb3a49ab6fcb01a75b36919c8074",
+      "hash": "cd6e24099497ca092305ffe8b1d88479",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Inscription.zip",
       "flat": true
     },
@@ -153,7 +153,7 @@
     },
     {
       "path": "SV_NativeUiPages.zip",
-      "hash": "38dd20b76f3a986d3d6161157860928c",
+      "hash": "1f411243cbce02687adb147942fcb4f5",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_NativeUiPages.zip",
       "flat": true
     },
@@ -213,15 +213,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.30",
+    "version": "1.9.31",
     "minVersion": "0.0.0",
-    "releaseDate": "2026/10/27",
-    "notes": "- BOT：交易改成一个窗口：本 BOT 的号之间交易，两边勾好点「开始交易」就自动放入、确认，不再弹两个窗；交完不关窗，可以接着交\n- BOT：交易可以一次勾好几只武将、超过 25 件物品，自动分几笔连着交；也可以「全队交给一个号」或「一个号的武将分给全队」\n- BOT：修复交易武将时对方没放武将，显示一排 NaN\n- BOT：战斗配置新增「全队4宠」「全队关4宠」，开 4 宠时出战武将自动休息\n- BOT：飞图没飞到目标图会提示停在哪里，不再显示「已到达」\n- BOT：脚本里的飞图步骤显示地图名称",
+    "releaseDate": "2026/10/29",
+    "notes": "- BOT：修复在「脚本配置」里改过的擂台、武斗大会等脚本，快捷脚本提示「未找到」、跑完一轮不再接着打",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "09e1b2b1bb41be514b44103b5f753581",
-    "exeSize": 26965008,
-    "desktopVersion": "1.9.30",
+    "exeMd5": "bce50c5c7618ad2cb4973ce3d18f01ae",
+    "exeSize": 26445840,
+    "desktopVersion": "1.9.31",
     "changelog": [
+      {
+        "version": "1.9.31",
+        "date": "2026/10/29",
+        "notes": "- BOT：修复在「脚本配置」里改过的擂台、武斗大会等脚本，快捷脚本提示「未找到」、跑完一轮不再接着打"
+      },
       {
         "version": "1.9.30",
         "date": "2026/10/27",
