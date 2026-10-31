@@ -1,5 +1,5 @@
 {
-  "Version": "20261029113406",
+  "Version": "20261031114630",
   "Files": [
     {
       "path": "BotData.zip",
@@ -9,13 +9,13 @@
     },
     {
       "path": "data.zip",
-      "hash": "e74d2f64cb902eb4f28150c5514e19aa",
+      "hash": "e2c8eb7b15ca08f00ecf92f6bd17fb47",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip",
       "flat": false
     },
     {
       "path": "DWBot.zip",
-      "hash": "1a329568f1827fe5e2190263309d6cd0",
+      "hash": "e607df63ba8cccc9fc995ef8b9422a71",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.zip",
       "flat": true
     },
@@ -33,13 +33,13 @@
     },
     {
       "path": "DW百科.zip",
-      "hash": "50df64d3ba99c2be15943ac4572fccb1",
+      "hash": "fe8e8725fb35b22ad19b807358ab6f50",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW百科.zip",
       "flat": true
     },
     {
       "path": "jma.zip",
-      "hash": "e65a07685f1b3cfa653e87a2f61f7c9d",
+      "hash": "4e8f6841ccf7c4500344efc7a012576b",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/jma.zip",
       "flat": false
     },
@@ -69,7 +69,7 @@
     },
     {
       "path": "SkillVisualDLL.zip",
-      "hash": "9c382a4613511bd82fc36db82bff14df",
+      "hash": "115e432f2b3b2d78dc51f9889c85f8d9",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisualDLL.zip",
       "flat": true
     },
@@ -147,13 +147,13 @@
     },
     {
       "path": "SV_NativeUiCommon.zip",
-      "hash": "8d8806d4070b7999a756420d4f57a1d0",
+      "hash": "0c269b32d396ea53891b8449ca1e3856",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_NativeUiCommon.zip",
       "flat": true
     },
     {
       "path": "SV_NativeUiPages.zip",
-      "hash": "1f411243cbce02687adb147942fcb4f5",
+      "hash": "28d876d0474f86285dde56de347c288a",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_NativeUiPages.zip",
       "flat": true
     },
@@ -170,9 +170,21 @@
       "flat": true
     },
     {
+      "path": "SV_SeasonalThemes.zip",
+      "hash": "e866127ccee44a37c5a0fa6b9f5d6a1e",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_SeasonalThemes.zip",
+      "flat": true
+    },
+    {
       "path": "SV_SkillActors.zip",
       "hash": "20e26737f88f1a4b2efdeb3db605032e",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_SkillActors.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_SkillLayer01.zip",
+      "hash": "ee3fcde1fba759bba4d55b2176332b5a",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_SkillLayer01.zip",
       "flat": true
     },
     {
@@ -185,6 +197,12 @@
       "path": "SV_Text.zip",
       "hash": "0a7c1eac6980e4fe9a3f5aaa3d18857a",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Text.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_WheelTabs.zip",
+      "hash": "7ad2efbacda867c160af35d44d816f9b",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_WheelTabs.zip",
       "flat": true
     },
     {
@@ -213,15 +231,20 @@
     }
   ],
   "DWBot": {
-    "version": "1.9.32",
+    "version": "1.9.33",
     "minVersion": "0.0.0",
-    "releaseDate": "2026/10/29",
-    "notes": "- BOT：工具栏「进阶」改成「全队」：一个窗口看全队每个号的董卓 / 擂台进阶、连击、倍敏、4宠、骑马、遇敌、纹章、重连，可以单个号改，也可以全队一起开关\n- BOT：指令设置新增「战斗选项」：连击、倍敏开关（关掉后挂机合击更稳），状态跟游戏里同步\n- BOT：修复钱庄第 3 页以后点了换不过去、画面闪一下\n- 游戏：新增倍敏开关，输入 /agirate off 关掉、/agirate on 打开（跟 /combo 连击开关一样，挂机也照这个打）\n- 游戏：修复機關盒晶石、神藥打完一场不扣次数，现在每场战斗扣一次\n- 游戏：修复回合中途换上来的武将，「在场时」类专武要到下一回合才生效\n- 游戏：周六 PVP 單人亂鬥胜场领先很多时也能很快配到对手，不再一等二十分钟\n- 游戏：周六 PVP 單人亂鬥不再消耗糧草；修复糧草不够时连击、武将多打还会放出原技能\n- 游戏：修复换了转身形象、坐骑皮肤的武将，扩充属性面板一片空白\n- 游戏：饰品可以淬炼了；淬炼、解锁、锁孔在战斗或对话中点不了时，提示真正的原因，不再显示资源不足",
+    "releaseDate": "2026/10/31",
+    "notes": "- BOT：「全队」窗口的全开 / 全关按钮改成表格第一行「全队」：勾上 = 全队开，取消 = 全队关，半勾 = 有的号开、有的号关\n- BOT：「全队」窗口开关多了可以左右拖动或用滚轮横着看，号和角色名固定在左边；操作提示 2 秒就消失\n- BOT：修复纹章「自动打包」和「缺章补货」能同时开着（补出来的章会马上被打回去），现在开一个就关另一个；改召唤纹章打包不再连带跳出福神纹章的提示\n- BOT：队员不再被强制关遇敌，每个号照自己的「自动遇敌」；组队挂机想让队员不自己打怪，在「全队」里点「只让队长遇敌」。全局设置的「队员不遇敌·队长自动补队」改名「队长自动补队」\n- BOT：萬聖節活動的新对白、鬼王技能在 BOT 里正常显示\n- 游戏：萬聖節活動（10/31 13:00 ~ 11/7 13:00）：冀州渤海廢墟找雲遊道士，可以组队、全队 150 级以上；全队变身成守卫一样的妖怪才能过关，最后打萬聖鬼王，鬼王分五轮、一轮比一轮强\n- 游戏：每打赢一轮拿一件造型南瓜傑克（依序是鞋子、護甲、法杖、閃光皮衣、面具）和搗蛋糖果盒 ×10，五轮集齐一整套；打第几轮看队长的进度，要领奖的人当队长，拿过的人可以帮打\n- 游戏：第 5 轮鬼王开场会放「萬聖還魂祭」：鬼王全队输出 +30%，可以解除\n- 游戏：活动期间墳場的蕃茄精、便便怪、南瓜妖会掉自己的变身娃娃，商城也有卖\n- 游戏：渤海廢墟新增萬聖百鬼來襲：1 转 150 级以上（2 转不限等级），可以组队、不限次数、输了不掉经验，打赢每人一个來襲寶盒\n- 游戏：10/31 ~ 11/3 战场和主画面换上万圣装饰\n- 游戏：转转乐顶部加「普通 / 高级」两个标签，各用各的币，会记住上次选的",
     "exeUrl": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWBot.exe",
-    "exeMd5": "10de74ebd86c4a4a2904f952cf2ccd57",
-    "exeSize": 26345488,
-    "desktopVersion": "1.9.32",
+    "exeMd5": "558a9d8db4a833d6eaf8fa675e008db4",
+    "exeSize": 26704912,
+    "desktopVersion": "1.9.33",
     "changelog": [
+      {
+        "version": "1.9.33",
+        "date": "2026/10/31",
+        "notes": "- BOT：「全队」窗口的全开 / 全关按钮改成表格第一行「全队」：勾上 = 全队开，取消 = 全队关，半勾 = 有的号开、有的号关\n- BOT：「全队」窗口开关多了可以左右拖动或用滚轮横着看，号和角色名固定在左边；操作提示 2 秒就消失\n- BOT：修复纹章「自动打包」和「缺章补货」能同时开着（补出来的章会马上被打回去），现在开一个就关另一个；改召唤纹章打包不再连带跳出福神纹章的提示\n- BOT：队员不再被强制关遇敌，每个号照自己的「自动遇敌」；组队挂机想让队员不自己打怪，在「全队」里点「只让队长遇敌」。全局设置的「队员不遇敌·队长自动补队」改名「队长自动补队」\n- BOT：萬聖節活動的新对白、鬼王技能在 BOT 里正常显示\n- 游戏：萬聖節活動（10/31 13:00 ~ 11/7 13:00）：冀州渤海廢墟找雲遊道士，可以组队、全队 150 级以上；全队变身成守卫一样的妖怪才能过关，最后打萬聖鬼王，鬼王分五轮、一轮比一轮强\n- 游戏：每打赢一轮拿一件造型南瓜傑克（依序是鞋子、護甲、法杖、閃光皮衣、面具）和搗蛋糖果盒 ×10，五轮集齐一整套；打第几轮看队长的进度，要领奖的人当队长，拿过的人可以帮打\n- 游戏：第 5 轮鬼王开场会放「萬聖還魂祭」：鬼王全队输出 +30%，可以解除\n- 游戏：活动期间墳場的蕃茄精、便便怪、南瓜妖会掉自己的变身娃娃，商城也有卖\n- 游戏：渤海廢墟新增萬聖百鬼來襲：1 转 150 级以上（2 转不限等级），可以组队、不限次数、输了不掉经验，打赢每人一个來襲寶盒\n- 游戏：10/31 ~ 11/3 战场和主画面换上万圣装饰\n- 游戏：转转乐顶部加「普通 / 高级」两个标签，各用各的币，会记住上次选的"
+      },
       {
         "version": "1.9.32",
         "date": "2026/10/29",
