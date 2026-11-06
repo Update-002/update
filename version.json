@@ -1,5 +1,5 @@
 {
-  "Version": "20261102105108",
+  "Version": "20261106105647",
   "Files": [
     {
       "path": "BotData.zip",
@@ -51,7 +51,7 @@
     },
     {
       "path": "pic.zip",
-      "hash": "fa7258a9bd98d2047f3c150d6856d1e7",
+      "hash": "fb3c7902225ef468b6801d2e55ca490a",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/pic.zip",
       "flat": false
     },
@@ -69,8 +69,14 @@
     },
     {
       "path": "SkillVisualDLL.zip",
-      "hash": "c36580f343b86c09bcb704478c52b928",
+      "hash": "27df9deff5030e276995a74d4c688604",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisualDLL.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_Achievements.zip",
+      "hash": "13f98d223db7d20f92a76fa4a2cca05e",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Achievements.zip",
       "flat": true
     },
     {
@@ -116,6 +122,12 @@
       "flat": true
     },
     {
+      "path": "SV_Encyclopedia.zip",
+      "hash": "ad92f29a73cea76782a81bd6bf9d8994",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Encyclopedia.zip",
+      "flat": true
+    },
+    {
       "path": "SV_GuildUi.zip",
       "hash": "3191002f1742b0453ba508f7a78a33e3",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_GuildUi.zip",
@@ -155,6 +167,12 @@
       "path": "SV_NativeUiPages.zip",
       "hash": "28d876d0474f86285dde56de347c288a",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_NativeUiPages.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_OutfitSets.zip",
+      "hash": "9fa8c00766749d11e133f914b0cb0ec0",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_OutfitSets.zip",
       "flat": true
     },
     {
@@ -201,7 +219,7 @@
     },
     {
       "path": "SV_WheelTabs.zip",
-      "hash": "7ad2efbacda867c160af35d44d816f9b",
+      "hash": "d91ee9450a8195cd1bf5831313f8d0d5",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_WheelTabs.zip",
       "flat": true
     },
