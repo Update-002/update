@@ -1,5 +1,5 @@
 {
-  "Version": "20261106105647",
+  "Version": "20261106142538",
   "Files": [
     {
       "path": "BotData.zip",
@@ -69,13 +69,13 @@
     },
     {
       "path": "SkillVisualDLL.zip",
-      "hash": "27df9deff5030e276995a74d4c688604",
+      "hash": "a656419057fce193f2310bb1b145dedc",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisualDLL.zip",
       "flat": true
     },
     {
       "path": "SV_Achievements.zip",
-      "hash": "13f98d223db7d20f92a76fa4a2cca05e",
+      "hash": "f1a28fb5630f1ae590d0e62091e77bc2",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Achievements.zip",
       "flat": true
     },
@@ -123,7 +123,7 @@
     },
     {
       "path": "SV_Encyclopedia.zip",
-      "hash": "ad92f29a73cea76782a81bd6bf9d8994",
+      "hash": "6647fe920c9d03961838454b1a1f28a9",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Encyclopedia.zip",
       "flat": true
     },
@@ -215,6 +215,12 @@
       "path": "SV_Text.zip",
       "hash": "0a7c1eac6980e4fe9a3f5aaa3d18857a",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Text.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_UiButtons.zip",
+      "hash": "1ca27ab7afd3a94bc6b23082caf045cc",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_UiButtons.zip",
       "flat": true
     },
     {
