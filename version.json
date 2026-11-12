@@ -1,5 +1,5 @@
 {
-  "Version": "20261111105638",
+  "Version": "20261112113838",
   "Files": [
     {
       "path": "BotData.zip",
@@ -9,7 +9,7 @@
     },
     {
       "path": "data.zip",
-      "hash": "57ccaca24880d2f4e5655026d500e918",
+      "hash": "768945c56ac72930ba043d5494910516",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip",
       "flat": false
     },
@@ -69,13 +69,13 @@
     },
     {
       "path": "SkillVisualDLL.zip",
-      "hash": "bfabb7dfdebfcddbd62e3a6ec1399d83",
+      "hash": "54419f8d334e428226f2004739791ee1",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisualDLL.zip",
       "flat": true
     },
     {
       "path": "SV_Achievements.zip",
-      "hash": "f1a28fb5630f1ae590d0e62091e77bc2",
+      "hash": "92115691abe6539c0d591578b5ed08bf",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Achievements.zip",
       "flat": true
     },
@@ -83,6 +83,12 @@
       "path": "SV_Activities.zip",
       "hash": "d3d041ccc8d3f9b455f0b6be73ce9f30",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Activities.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_ActivityCenter.zip",
+      "hash": "de8c16a77b67015ba07accde08ba6ea5",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_ActivityCenter.zip",
       "flat": true
     },
     {
@@ -123,7 +129,7 @@
     },
     {
       "path": "SV_Encyclopedia.zip",
-      "hash": "6647fe920c9d03961838454b1a1f28a9",
+      "hash": "ce2d05dcd52b24896a2b0015e38239bb",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_Encyclopedia.zip",
       "flat": true
     },
