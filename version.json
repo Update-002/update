@@ -1,5 +1,5 @@
 {
-  "Version": "20261112121011",
+  "Version": "20261113110458",
   "Files": [
     {
       "path": "BotData.zip",
@@ -33,7 +33,7 @@
     },
     {
       "path": "DW百科.zip",
-      "hash": "c0187db2d7e9229e6c7f5472ddb83b48",
+      "hash": "009d2856fe864a821bf72779a0bb81a8",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW百科.zip",
       "flat": true
     },
