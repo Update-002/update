@@ -1,5 +1,5 @@
 {
-  "Version": "20261113110458",
+  "Version": "20261115114633",
   "Files": [
     {
       "path": "BotData.zip",
@@ -9,7 +9,7 @@
     },
     {
       "path": "data.zip",
-      "hash": "768945c56ac72930ba043d5494910516",
+      "hash": "cff516c9744e9abebf893d909f32bc17",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/data.zip",
       "flat": false
     },
@@ -21,25 +21,25 @@
     },
     {
       "path": "DWLogin.zip",
-      "hash": "492d5af1c80f26d5b57528b70a5a6c41",
+      "hash": "5262e98f8359e2f51f0057de93b7b6ff",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DWLogin.zip",
       "flat": true
     },
     {
       "path": "DW多开器.zip",
-      "hash": "74d177e8dfb0519c97ef07722d36b5d2",
+      "hash": "9a426ef436b095fce9a294d09ebf8275",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW多开器.zip",
       "flat": true
     },
     {
       "path": "DW百科.zip",
-      "hash": "009d2856fe864a821bf72779a0bb81a8",
+      "hash": "805e66a8b07ef1efb0ecb3abf515a7b8",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/DW百科.zip",
       "flat": true
     },
     {
       "path": "jma.zip",
-      "hash": "8837b5dc33ba07feba48f823b4b93547",
+      "hash": "77f6457101ec41efaf66b71a7fc52bd4",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/jma.zip",
       "flat": false
     },
@@ -51,7 +51,7 @@
     },
     {
       "path": "pic.zip",
-      "hash": "fb3c7902225ef468b6801d2e55ca490a",
+      "hash": "3360ab705e01417d759f148e7da155fa",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/pic.zip",
       "flat": false
     },
@@ -69,7 +69,7 @@
     },
     {
       "path": "SkillVisualDLL.zip",
-      "hash": "54419f8d334e428226f2004739791ee1",
+      "hash": "00b98af3f53b693396c698f256b927b2",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SkillVisualDLL.zip",
       "flat": true
     },
@@ -98,9 +98,21 @@
       "flat": true
     },
     {
+      "path": "SV_BattleBanner.zip",
+      "hash": "47a5878ee90e25884f3ba87d9d1dd474",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_BattleBanner.zip",
+      "flat": true
+    },
+    {
       "path": "SV_BossBar.zip",
       "hash": "c1b59f6b5b2762acd2e5d1f72cef8d69",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_BossBar.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_CampaignSty.zip",
+      "hash": "2b90ed72e8f96c3ce3c2691fe3041aec",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_CampaignSty.zip",
       "flat": true
     },
     {
