@@ -1,5 +1,5 @@
 {
-  "Version": "20261118012018",
+  "Version": "20261118104818",
   "Files": [
     {
       "path": "BotData.zip",
@@ -101,6 +101,12 @@
       "path": "SV_BattleBanner.zip",
       "hash": "47a5878ee90e25884f3ba87d9d1dd474",
       "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_BattleBanner.zip",
+      "flat": true
+    },
+    {
+      "path": "SV_BattleTrial.zip",
+      "hash": "5a1a4695dc837b4cb895ac18c51e5b4a",
+      "url": "https://pub-3358768194364fd69d9dfce5a0ed1c14.r2.dev/SV_BattleTrial.zip",
       "flat": true
     },
     {
